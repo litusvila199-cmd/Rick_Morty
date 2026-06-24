@@ -7,15 +7,21 @@ load_dotenv()
 
 API_URL = os.getenv("API_URL")
 
-response = requests.get(API_URL)
+current_url = API_URL
 
-datos = response.json()
+todos_los_personajes = []
 
-with open("data/raw/characters_raw.json", "w") as f:
-    json.dump(datos, f , indent= 4, ensure_ascii= False)
+while current_url:
 
-'''print(response.status_code)
-print(len(datos["results"]))
-print(datos.keys())
-print(type(datos["results"]))
-print(datos["results"][0])'''
+    response = requests.get(current_url)
+
+    datos = response.json()
+
+    todos_los_personajes.extend(datos['results'])
+
+    current_url = datos["info"]["next"]
+
+with open("data/raw/characters_raw.json", "w", encoding="utf-8")as f:
+    json.dump(todos_los_personajes, f, indent=4, ensure_ascii=False) 
+
+print(f"Personajes descargados: {len(todos_los_personajes)}")       
