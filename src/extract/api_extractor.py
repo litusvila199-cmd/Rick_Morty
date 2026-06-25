@@ -3,25 +3,28 @@ from dotenv import load_dotenv
 import json
 import os
 
-load_dotenv()
+def extract_characters():
 
-API_URL = os.getenv("API_URL")
+    load_dotenv()
 
-current_url = API_URL
+    API_URL = os.getenv("API_URL")
 
-todos_los_personajes = []
+    current_url = API_URL
 
-while current_url:
+    todos_los_personajes = []
 
-    response = requests.get(current_url)
+    while current_url():
 
-    datos = response.json()
+        response = requests.get(current_url)
 
-    todos_los_personajes.extend(datos['results'])
+        datos = response.json()
 
-    current_url = datos["info"]["next"]
+        todos_los_personajes.extend(datos["results"])
 
-with open("data/raw/characters_raw.json", "w", encoding="utf-8")as f:
-    json.dump(todos_los_personajes, f, indent=4, ensure_ascii=False) 
+        current_url = datos["info"]["next"]
 
-print(f"Personajes descargados: {len(todos_los_personajes)}")       
+    with open("data/raw/characters_raw.json", "w", encoding="utf-8")as f:
+        json.dump(todos_los_personajes, f, indent=4, ensure_ascii=False)    
+
+
+print(f"Personajes descargados: {len(todos_los_personajes)}")  
