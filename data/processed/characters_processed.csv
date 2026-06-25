@@ -1,0 +1,827 @@
+id,name,status,species,gender,created,origin_name
+1,Rick Sanchez,Alive,Human,Male,2017-11-04 18:48:46.250000+00:00,Earth (C-137)
+2,Morty Smith,Alive,Human,Male,2017-11-04 18:50:21.651000+00:00,unknown
+3,Summer Smith,Alive,Human,Female,2017-11-04 19:09:56.428000+00:00,Earth (Replacement Dimension)
+4,Beth Smith,Alive,Human,Female,2017-11-04 19:22:43.665000+00:00,Earth (Replacement Dimension)
+5,Jerry Smith,Alive,Human,Male,2017-11-04 19:26:56.301000+00:00,Earth (Replacement Dimension)
+6,Abadango Cluster Princess,Alive,Alien,Female,2017-11-04 19:50:28.250000+00:00,Abadango
+7,Abradolf Lincler,unknown,Human,Male,2017-11-04 19:59:20.523000+00:00,Earth (Replacement Dimension)
+8,Adjudicator Rick,Dead,Human,Male,2017-11-04 20:03:34.737000+00:00,unknown
+9,Agency Director,Dead,Human,Male,2017-11-04 20:06:54.976000+00:00,Earth (Replacement Dimension)
+10,Alan Rails,Dead,Human,Male,2017-11-04 20:19:09.017000+00:00,unknown
+11,Albert Einstein,Dead,Human,Male,2017-11-04 20:20:20.965000+00:00,Earth (C-137)
+12,Alexander,Dead,Human,Male,2017-11-04 20:32:33.144000+00:00,Earth (C-137)
+13,Alien Googah,unknown,Alien,unknown,2017-11-04 20:33:30.779000+00:00,unknown
+14,Alien Morty,unknown,Alien,Male,2017-11-04 20:51:31.373000+00:00,unknown
+15,Alien Rick,unknown,Alien,Male,2017-11-04 20:56:13.215000+00:00,unknown
+16,Amish Cyborg,Dead,Alien,Male,2017-11-04 21:12:45.235000+00:00,unknown
+17,Annie,Alive,Human,Female,2017-11-04 22:21:24.481000+00:00,Earth (C-137)
+18,Antenna Morty,Alive,Human,Male,2017-11-04 22:25:29.008000+00:00,unknown
+19,Antenna Rick,unknown,Human,Male,2017-11-04 22:28:13.756000+00:00,unknown
+20,Ants in my Eyes Johnson,unknown,Human,Male,2017-11-04 22:34:53.659000+00:00,unknown
+21,Aqua Morty,unknown,Humanoid,Male,2017-11-04 22:39:48.055000+00:00,unknown
+22,Aqua Rick,unknown,Humanoid,Male,2017-11-04 22:41:07.171000+00:00,unknown
+23,Arcade Alien,unknown,Alien,Male,2017-11-05 08:43:05.095000+00:00,unknown
+24,Armagheadon,Alive,Alien,Male,2017-11-05 08:48:30.776000+00:00,Signus 5 Expanse
+25,Armothy,Dead,unknown,Male,2017-11-05 08:54:29.343000+00:00,Post-Apocalyptic Earth
+26,Arthricia,Alive,Alien,Female,2017-11-05 08:56:46.165000+00:00,Purge Planet
+27,Artist Morty,Alive,Human,Male,2017-11-05 08:59:07.457000+00:00,unknown
+28,Attila Starwar,Alive,Human,Male,2017-11-05 09:02:16.595000+00:00,unknown
+29,Baby Legs,Alive,Human,Male,2017-11-05 09:06:19.644000+00:00,unknown
+30,Baby Poopybutthole,Alive,Poopybutthole,Male,2017-11-05 09:13:16.483000+00:00,unknown
+31,Baby Wizard,Dead,Alien,Male,2017-11-05 09:15:11.286000+00:00,unknown
+32,Bearded Lady,Dead,Alien,Female,2017-11-05 09:18:04.184000+00:00,unknown
+33,Beebo,Dead,Alien,Male,2017-11-05 09:21:55.595000+00:00,Venzenulon 7
+34,Benjamin,Alive,Poopybutthole,Male,2017-11-05 09:24:04.748000+00:00,unknown
+35,Bepisian,Alive,Alien,unknown,2017-11-05 09:27:38.491000+00:00,Bepis 9
+36,Beta-Seven,Alive,Alien,unknown,2017-11-05 09:31:08.952000+00:00,unknown
+37,Beth Sanchez,Alive,Human,Female,2017-11-05 09:38:22.960000+00:00,Earth (C-500A)
+38,Beth Smith,Alive,Human,Female,2017-11-05 09:48:44.230000+00:00,Earth (C-137)
+39,Beth Smith,Alive,Human,Female,2017-11-05 09:52:31.777000+00:00,Earth (Evil Rick's Target Dimension)
+40,Beth's Mytholog,Dead,Mythological Creature,Female,2017-11-05 10:02:26.701000+00:00,Nuptia 4
+41,Big Boobed Waitress,Alive,Mythological Creature,Female,2017-11-05 10:13:45.960000+00:00,Fantasy World
+42,Big Head Morty,unknown,Human,Male,2017-11-05 10:15:53.349000+00:00,unknown
+43,Big Morty,Dead,Human,Male,2017-11-05 10:17:04.997000+00:00,unknown
+44,Body Guard Morty,Dead,Human,Male,2017-11-05 10:18:11.062000+00:00,unknown
+45,Bill,Alive,Human,Male,2017-11-05 10:22:27.446000+00:00,Earth (C-137)
+46,Bill,unknown,Animal,Male,2017-11-05 10:24:38.089000+00:00,Earth (Replacement Dimension)
+47,Birdperson,Alive,Alien,Male,2017-11-05 11:13:36.018000+00:00,Bird World
+48,Black Rick,Alive,Human,Male,2017-11-05 11:15:26.044000+00:00,unknown
+49,Blamph,Alive,Alien,unknown,2017-11-05 11:18:26.702000+00:00,unknown
+50,Blim Blam,Alive,Alien,Male,2017-11-05 11:21:43.756000+00:00,unknown
+51,Blue Diplomat,Alive,Alien,Male,2017-11-05 11:24:49.688000+00:00,unknown
+52,Blue Footprint Guy,Dead,Human,Male,2017-11-05 11:26:42.084000+00:00,Post-Apocalyptic Earth
+53,Blue Shirt Morty,unknown,Human,Male,2017-11-05 11:28:38.627000+00:00,unknown
+54,Bobby Moynihan,Alive,Human,Male,2017-11-05 11:31:26.348000+00:00,unknown
+55,Boobloosian,Dead,Alien,unknown,2017-11-05 11:32:53.847000+00:00,unknown
+56,Bootleg Portal Chemist Rick,Dead,Human,Male,2017-11-05 11:34:16.447000+00:00,unknown
+57,Borpocian,Alive,Alien,Male,2017-11-05 11:38:29.459000+00:00,unknown
+58,Brad,Alive,Human,Male,2017-11-05 11:40:02.554000+00:00,Earth (Replacement Dimension)
+59,Brad Anderson,Dead,Human,Male,2017-11-05 11:41:38.964000+00:00,Earth (Replacement Dimension)
+60,Calypso,Dead,Human,Female,2017-11-05 11:52:45.852000+00:00,unknown
+61,Campaign Manager Morty,Dead,Human,Male,2017-11-05 11:53:44.737000+00:00,unknown
+62,Canklanker Thom,Dead,Alien,Male,2017-11-05 12:06:23.217000+00:00,Gromflom Prime
+63,Centaur,Alive,Mythological Creature,Male,2017-11-05 12:22:17.848000+00:00,unknown
+64,Chris,Dead,Alien,unknown,2017-11-05 12:25:03.541000+00:00,unknown
+65,Chris,Alive,Humanoid,Male,2017-11-30 11:02:41.935000+00:00,Rick's Battery Microverse
+66,Coach Feratu (Balik Alistane),Dead,Mythological Creature,Male,2017-11-30 11:10:10.491000+00:00,Earth (Replacement Dimension)
+67,Collector,Alive,Alien,Male,2017-11-30 11:13:46.785000+00:00,The Menagerie
+68,Colossus,Dead,Human,Male,2017-11-30 11:17:32.733000+00:00,Post-Apocalyptic Earth
+69,Commander Rick,Dead,Human,Male,2017-11-30 11:28:06.461000+00:00,unknown
+70,Concerto,Dead,Humanoid,Male,2017-11-30 11:31:41.926000+00:00,unknown
+71,Conroy,Dead,Robot,unknown,2017-11-30 11:35:50.183000+00:00,Earth (Replacement Dimension)
+72,Cool Rick,Alive,Human,Male,2017-11-30 11:41:11.542000+00:00,Earth (K-83)
+73,Cop Morty,Dead,Human,Male,2017-11-30 11:43:04.217000+00:00,unknown
+74,Cop Rick,Alive,Human,Male,2017-11-30 11:48:18.950000+00:00,unknown
+75,Courier Flap,Alive,Alien,unknown,2017-11-30 12:12:57.553000+00:00,unknown
+76,Cousin Nicky,Dead,Alien,Male,2017-11-30 14:11:52.882000+00:00,unknown
+77,Cowboy Morty,Alive,Human,Male,2017-11-30 14:13:17.371000+00:00,unknown
+78,Cowboy Rick,Alive,Human,Male,2017-11-30 14:15:18.347000+00:00,unknown
+79,Crab Spider,Alive,Alien,unknown,2017-11-30 14:18:16.899000+00:00,Hideout Planet
+80,Creepy Little Girl,Alive,Human,Female,2017-11-30 14:20:35.772000+00:00,unknown
+81,Crocubot,Dead,Animal,Male,2017-11-30 14:23:41.053000+00:00,unknown
+82,Cronenberg Rick,unknown,Cronenberg,Male,2017-11-30 14:28:54.596000+00:00,Cronenberg Earth
+83,Cronenberg Morty,unknown,Cronenberg,Male,2017-11-30 20:02:29.204000+00:00,Cronenberg Earth
+84,Cult Leader Morty,Alive,Human,Male,2017-11-30 20:41:48.080000+00:00,unknown
+85,Cyclops Morty,Alive,Humanoid,Male,2017-11-30 20:49:52.133000+00:00,unknown
+86,Cyclops Rick,Dead,Humanoid,Male,2017-11-30 20:53:10.382000+00:00,unknown
+87,Cynthia,Dead,Alien,Female,2017-11-30 21:08:32.534000+00:00,unknown
+88,Cynthia,Alive,Human,Female,2017-11-30 21:16:35.633000+00:00,Earth (Replacement Dimension)
+89,Dale,Dead,Mythological Creature,Male,2017-12-01 10:32:08.340000+00:00,Giant's Town
+90,Daron Jefferson,Alive,Alien,Male,2017-12-01 10:54:34.736000+00:00,Unity's Planet
+91,David Letterman,Alive,Human,Male,2017-12-01 11:12:25.105000+00:00,Earth (C-500A)
+92,Davin,Dead,Human,Male,2017-12-01 11:20:51.247000+00:00,Earth (C-137)
+93,Diablo Verde,Dead,Mythological Creature,Male,2017-12-01 11:36:16.467000+00:00,unknown
+94,Diane Sanchez,Dead,Human,Female,2017-12-01 11:49:43.929000+00:00,Earth (C-137)
+95,Dipper and Mabel Mortys,unknown,Human,unknown,2017-12-01 11:54:36.670000+00:00,unknown
+96,Tuberculosis,Dead,Disease,unknown,2017-12-01 11:59:04.796000+00:00,Anatomy Park
+97,Gonorrhea,Dead,Disease,unknown,2017-12-01 12:00:27.028000+00:00,Anatomy Park
+98,Hepatitis A,Dead,Disease,unknown,2017-12-01 12:01:43.742000+00:00,Anatomy Park
+99,Hepatitis C,Dead,Disease,unknown,2017-12-01 12:02:00.935000+00:00,Anatomy Park
+100,Bubonic Plague,Dead,Disease,unknown,2017-12-01 12:02:21.611000+00:00,Anatomy Park
+101,E. Coli,Dead,Disease,unknown,2017-12-01 12:03:31.433000+00:00,Anatomy Park
+102,Donna Gueterman,Dead,Robot,Female,2017-12-01 12:21:21.357000+00:00,unknown
+103,Doofus Rick,unknown,Human,Male,2017-12-01 12:29:27.984000+00:00,Earth (J19ζ7)
+104,Doom-Nomitron,Dead,Alien,unknown,2017-12-26 12:34:36.758000+00:00,unknown
+105,Dr. Glip-Glop,Dead,Alien,Male,2017-12-26 12:39:22.855000+00:00,unknown
+106,Dr. Schmidt,unknown,Human,Male,2017-12-26 12:46:48.805000+00:00,Roy: A Life Well Lived
+107,Dr. Wong,Alive,Human,Female,2017-12-26 12:55:58.449000+00:00,Earth (Replacement Dimension)
+108,Dr. Xenon Bloom,Dead,Humanoid,Male,2017-12-26 13:14:12.157000+00:00,unknown
+109,Duck With Muscles,Dead,Alien,Male,2017-12-26 13:17:40.686000+00:00,unknown
+110,Eli,Alive,Human,Male,2017-12-26 13:37:27.635000+00:00,Post-Apocalyptic Earth
+111,Eli's Girlfriend,Alive,Human,Female,2017-12-26 13:38:47.115000+00:00,Post-Apocalyptic Earth
+112,Eric McMan,Alive,Human,Male,2017-12-26 13:40:06.005000+00:00,Earth (C-137)
+113,Eric Stoltz Mask Morty,unknown,Human,Male,2017-12-26 13:43:29.296000+00:00,Eric Stoltz Mask Earth
+114,Ethan,unknown,Human,Male,2017-12-26 16:01:13.904000+00:00,Earth (C-137)
+115,Ethan,Alive,Human,Male,2017-12-26 16:01:50.939000+00:00,Earth (Replacement Dimension)
+116,Evil Beth Clone,Dead,Human,Female,2017-12-26 16:10:47.781000+00:00,unknown
+117,Evil Jerry Clone,Dead,Human,Male,2017-12-26 16:11:15.395000+00:00,unknown
+118,Evil Morty,Alive,Human,Male,2017-12-26 16:13:41.103000+00:00,unknown
+119,Evil Rick,Dead,Humanoid,Male,2017-12-26 16:17:16.472000+00:00,unknown
+120,Evil Summer Clone,Dead,Human,Female,2017-12-26 16:24:02.059000+00:00,unknown
+121,Eyehole Man,Alive,Alien,Male,2017-12-26 16:41:58.391000+00:00,unknown
+122,Fart,Dead,Alien,Male,2017-12-26 17:19:40.474000+00:00,unknown
+123,Fat Morty,Alive,Human,Male,2017-12-26 17:22:40.315000+00:00,unknown
+124,Father Bob,Alive,Human,Male,2017-12-26 17:31:29.113000+00:00,Earth (Replacement Dimension)
+125,Flansian,Alive,Alien,unknown,2017-12-26 17:43:58.410000+00:00,unknown
+126,Fleeb,unknown,Alien,unknown,2017-12-26 18:45:42.593000+00:00,unknown
+127,Frank Palicky,Dead,Human,Male,2017-12-26 19:22:48.474000+00:00,Earth (C-137)
+128,Frankenstein's Monster,Dead,Alien,Male,2017-12-26 19:24:56.679000+00:00,unknown
+129,Fulgora,Alive,Human,Female,2017-12-26 19:30:02.242000+00:00,unknown
+130,Galactic Federation President,Dead,Alien,Male,2017-12-26 19:49:41.160000+00:00,unknown
+131,Gar Gloonch,Dead,Alien,Male,2017-12-26 19:54:43.476000+00:00,unknown
+132,Gar's Mytholog,Dead,Mythological Creature,Male,2017-12-26 20:02:38.033000+00:00,Nuptia 4
+133,Garblovian,Alive,Alien,Male,2017-12-26 20:30:45.943000+00:00,Glaagablaaga
+134,Garmanarnar,Alive,Alien,Male,2017-12-26 20:36:54.577000+00:00,unknown
+135,Garment District Rick,Dead,Human,Male,2017-12-26 20:51:43.614000+00:00,unknown
+136,Gazorpazorpfield,Alive,Alien,Male,2017-12-27 17:59:59.058000+00:00,Gazorpazorp
+137,Gene,Alive,Human,Male,2017-12-27 18:14:57.885000+00:00,Earth (Replacement Dimension)
+138,General Nathan,Dead,Human,Male,2017-12-27 18:22:18.387000+00:00,Earth (Replacement Dimension)
+139,General Store Owner,Dead,Alien,Male,2017-12-27 18:41:03.124000+00:00,Purge Planet
+140,Genital Washer,Alive,Human,Male,2017-12-27 18:47:44.566000+00:00,Post-Apocalyptic Earth
+141,Ghost in a Jar,Dead,Alien,Genderless,2017-12-27 19:14:14.545000+00:00,unknown
+142,Gibble Snake,Dead,Alien,unknown,2017-12-27 20:16:32.187000+00:00,Resort Planet
+143,Glasses Morty,Alive,Human,Male,2017-12-27 20:37:26.134000+00:00,unknown
+144,Glenn,Dead,Alien,Male,2017-12-29 10:37:48.319000+00:00,unknown
+145,Glenn,Alive,Human,Male,2017-12-29 11:03:43.118000+00:00,unknown
+146,Glexo Slim Slom,Alive,Alien,Male,2017-12-29 11:28:29.380000+00:00,unknown
+147,Gobo,Dead,Alien,Male,2017-12-29 11:38:29.578000+00:00,unknown
+148,Goddess Beth,unknown,Mythological Creature,Female,2017-12-29 11:40:25.135000+00:00,Nuptia 4
+149,Gordon Lunas,Dead,Human,Male,2017-12-29 11:44:00.169000+00:00,unknown
+150,Cornvelious Daniel,Dead,Alien,Male,2017-12-29 12:02:33.550000+00:00,unknown
+151,Gwendolyn,unknown,Robot,Female,2017-12-29 12:31:50.388000+00:00,Gazorpazorp
+152,Hammerhead Morty,unknown,Humanoid,Male,2017-12-29 15:20:16.842000+00:00,unknown
+153,Hamster In Butt,Alive,Animal,unknown,2017-12-29 15:27:54.281000+00:00,Hamster in Butt World
+154,Hamurai,Dead,Alien,Male,2017-12-29 15:32:05.287000+00:00,unknown
+155,Harold,Alive,Cronenberg,Male,2017-12-29 15:41:18.773000+00:00,Earth (C-137)
+156,Hemorrhage,Alive,Human,Male,2017-12-29 15:44:40.083000+00:00,Post-Apocalyptic Earth
+157,Hole in the Wall Where the Men Can See it All,unknown,unknown,Genderless,2017-12-29 15:47:57.352000+00:00,unknown
+158,Hookah Alien,Alive,Alien,unknown,2017-12-29 15:53:48.952000+00:00,unknown
+159,Hunter,Dead,Human,Male,2017-12-29 16:03:28.792000+00:00,Earth (Giant Telepathic Spiders Dimension)
+160,Hunter's Father,Alive,Human,Male,2017-12-29 16:07:04.040000+00:00,Earth (Giant Telepathic Spiders Dimension)
+161,Hydrogen-F,Alive,Alien,Female,2017-12-29 16:10:40.290000+00:00,Alphabetrium
+162,Ice-T,Alive,Alien,Male,2017-12-29 16:42:59.207000+00:00,Alphabetrium
+163,Ideal Jerry,Dead,Mythological Creature,Male,2017-12-29 16:46:41.345000+00:00,Nuptia 4
+164,Insurance Rick,unknown,Human,Male,2017-12-29 17:03:08.645000+00:00,unknown
+165,Investigator Rick,Dead,Human,Male,2017-12-29 17:05:15.514000+00:00,unknown
+166,Invisi-trooper,Alive,Human,Male,2017-12-29 17:06:28.325000+00:00,Earth (Replacement Dimension)
+167,Izzy,Alive,Animal,unknown,2017-12-29 17:07:59.024000+00:00,Earth (Replacement Dimension)
+168,Jackie,Alive,Alien,Female,2017-12-29 17:14:03.430000+00:00,Gazorpazorp
+169,Jacob,Alive,Human,Male,2017-12-29 17:20:52.037000+00:00,Earth (C-137)
+170,Jacqueline,Alive,Human,Female,2017-12-29 17:22:17.707000+00:00,Earth (Replacement Dimension)
+171,Jaguar,Alive,Human,Male,2017-12-29 17:25:38.138000+00:00,Earth (Replacement Dimension)
+172,Jamey,Alive,Human,Male,2017-12-29 17:30:20.654000+00:00,Earth (Replacement Dimension)
+173,Jan-Michael Vincent,Alive,Human,Male,2017-12-29 17:33:23.972000+00:00,unknown
+174,Jerry 5-126,Alive,Human,Male,2017-12-29 17:50:19.991000+00:00,Earth (5-126)
+175,Jerry Smith,Alive,Human,Male,2017-12-29 18:07:17.610000+00:00,Earth (C-137)
+176,Celebrity Jerry,Alive,Human,Male,2017-12-29 18:25:11.930000+00:00,Earth (C-500A)
+177,Jerry Smith,Alive,Human,Male,2017-12-29 18:28:19.424000+00:00,Earth (Evil Rick's Target Dimension)
+178,Jerry's Mytholog,Dead,Mythological Creature,Male,2017-12-29 18:29:31.279000+00:00,Nuptia 4
+179,Jessica,Alive,Cronenberg,Female,2017-12-29 18:34:37.806000+00:00,Earth (C-137)
+180,Jessica,Alive,Human,Female,2017-12-29 18:36:27.225000+00:00,Earth (Replacement Dimension)
+181,Jessica's Friend,Alive,Human,Female,2017-12-29 18:47:23.345000+00:00,Earth (C-137)
+182,Jim,Alive,Human,Male,2017-12-29 18:49:48.953000+00:00,Earth (Replacement Dimension)
+183,Johnny Depp,Alive,Human,Male,2017-12-29 18:51:29.693000+00:00,Earth (C-500A)
+184,Jon,Alive,Alien,Male,2017-12-29 18:54:04.572000+00:00,Gazorpazorp
+185,Joseph Eli Lipkip,Alive,Human,Male,2017-12-29 18:56:15.622000+00:00,Earth (Replacement Dimension)
+186,Joyce Smith,Alive,Human,Female,2017-12-29 18:58:34.530000+00:00,Earth (C-137)
+187,Juggling Rick,unknown,Human,Male,2017-12-29 18:59:47.440000+00:00,unknown
+188,Karen Entity,Alive,Alien,Female,2017-12-29 19:10:16.171000+00:00,Unity's Planet
+189,Katarina,Dead,Human,Female,2017-12-29 19:13:57.070000+00:00,Earth (Replacement Dimension)
+190,Keara,Alive,Alien,Female,2017-12-29 19:26:06.900000+00:00,Krootabulon
+191,Kevin,Dead,Alien,Male,2017-12-29 19:40:07.816000+00:00,unknown
+192,King Flippy Nips,Alive,Alien,Male,2017-12-29 19:49:29.297000+00:00,Pluto
+193,King Jellybean,Dead,Mythological Creature,Male,2017-12-29 19:58:44.743000+00:00,Fantasy World
+194,Kozbian,Alive,Alien,unknown,2017-12-30 12:13:53.878000+00:00,unknown
+195,Kristen Stewart,Alive,Human,Female,2017-12-30 12:19:16.042000+00:00,Earth (C-500A)
+196,Krombopulos Michael,Dead,Alien,Male,2017-12-30 12:28:52.954000+00:00,unknown
+197,Kyle,Dead,Humanoid,Male,2017-12-30 12:39:09.025000+00:00,Zeep Xanflorp's Miniverse
+198,Lady Katana,Dead,Humanoid,Female,2017-12-30 12:43:37.571000+00:00,unknown
+199,Larva Alien,Alive,Alien,unknown,2017-12-30 12:48:44.677000+00:00,Larva Alien's Planet
+200,Lawyer Morty,unknown,Human,Male,2017-12-30 12:49:52.971000+00:00,unknown
+201,Leonard Smith,Alive,Human,Male,2017-12-30 12:51:27.835000+00:00,Earth (C-137)
+202,Lighthouse Keeper,Dead,Alien,Male,2017-12-30 12:53:11.937000+00:00,Purge Planet
+203,Lil B,Dead,Alien,Male,2017-12-30 12:54:31.725000+00:00,unknown
+204,Lisa,Dead,Alien,Female,2017-12-30 12:59:58.460000+00:00,unknown
+205,Little Dipper,Alive,Humanoid,Male,2017-12-30 13:03:12.366000+00:00,unknown
+206,Lizard Morty,Alive,Humanoid,Male,2017-12-30 13:06:09.094000+00:00,unknown
+207,Loggins,Alive,Alien,Male,2017-12-30 13:54:28.627000+00:00,unknown
+208,Logic,Alive,Human,Male,2017-12-30 13:58:41.417000+00:00,unknown
+209,Long Sleeved Morty,unknown,Human,Male,2017-12-30 14:00:06.755000+00:00,unknown
+210,Lucy,Dead,Human,Female,2017-12-30 14:01:23.319000+00:00,Earth (Replacement Dimension)
+211,Ma-Sha,Alive,Alien,Female,2017-12-30 14:16:00.484000+00:00,Gazorpazorp
+212,Magma-Q,Dead,Alien,Male,2017-12-30 14:19:10.419000+00:00,Alphabetrium
+213,Magnesium-J,Alive,Alien,Male,2017-12-30 14:21:16.121000+00:00,Alphabetrium
+214,Man Painted Silver Who Makes Robot Noises,Alive,Human,Male,2017-12-30 14:24:57.993000+00:00,unknown
+215,Maximums Rickimus,Dead,Human,Male,2017-12-30 14:27:55.489000+00:00,unknown
+216,MC Haps,Alive,Human,Male,2017-12-30 14:30:06.479000+00:00,Earth (C-137)
+217,Mechanical Morty,Dead,Robot,Male,2017-12-30 14:32:17.158000+00:00,Earth (Replacement Dimension)
+218,Mechanical Rick,unknown,Robot,Male,2017-12-30 14:33:16.920000+00:00,Earth (Replacement Dimension)
+219,Mechanical Summer,unknown,Robot,Female,2017-12-30 14:33:49.392000+00:00,Earth (Replacement Dimension)
+220,Mega Fruit Farmer Rick,Alive,Human,Male,2017-12-30 14:35:30.736000+00:00,unknown
+221,Melissa,Alive,Mythological Creature,Female,2017-12-30 14:38:04.718000+00:00,Mr. Goldenfold's dream
+222,Michael Denny and the Denny Singers,Alive,Human,Male,2017-12-30 14:44:05.245000+00:00,unknown
+223,Michael Jenkins,Dead,Human,Male,2017-12-30 14:44:51.373000+00:00,unknown
+224,Michael McLick,Alive,Human,Male,2017-12-30 15:49:28.666000+00:00,unknown
+225,Michael Thompson,Alive,Humanoid,Male,2017-12-30 15:59:31.558000+00:00,unknown
+226,Million Ants,Dead,Animal,Male,2017-12-30 16:04:56.879000+00:00,unknown
+227,Mitch,Alive,Human,Male,2017-12-30 16:08:38.157000+00:00,Earth (Replacement Dimension)
+228,Mohawk Guy,Dead,Human,Male,2017-12-30 16:10:03.881000+00:00,Post-Apocalyptic Earth
+229,Morty Mart Manager Morty,Alive,Human,Male,2017-12-30 16:12:33.382000+00:00,unknown
+230,Morty Jr.,Alive,Humanoid,Male,2017-12-30 16:20:51.391000+00:00,Earth (Replacement Dimension)
+231,Morty Rick,unknown,Human,Male,2017-12-30 16:23:45.894000+00:00,unknown
+232,Morty Smith,Alive,Human,Male,2017-12-30 16:29:27.863000+00:00,Earth (Evil Rick's Target Dimension)
+233,Morty K-22,Alive,Human,Male,2017-12-30 16:33:49.577000+00:00,Earth (K-22)
+234,Morty Smith,Dead,Human,Male,2017-12-30 16:35:01.223000+00:00,Earth (Replacement Dimension)
+235,Mortytown Loco,Dead,Human,Male,2017-12-30 16:37:07.150000+00:00,unknown
+236,Mr. Beauregard,Dead,Alien,Male,2017-12-30 17:28:28.409000+00:00,unknown
+237,Mr. Benson,Alive,Human,Male,2017-12-30 17:30:31.757000+00:00,Earth (Replacement Dimension)
+238,Mr. Booby Buyer,Alive,Mythological Creature,Male,2017-12-30 17:36:12.853000+00:00,Fantasy World
+239,Mr. Goldenfold,Alive,Cronenberg,Male,2017-12-30 17:42:11.894000+00:00,Earth (C-137)
+240,Mr. Goldenfold,Alive,Human,Male,2017-12-30 17:42:56.349000+00:00,Earth (Replacement Dimension)
+241,Mr. Marklovitz,Alive,Human,Male,2017-12-30 17:46:19.052000+00:00,Earth (C-137)
+242,Mr. Meeseeks,unknown,Humanoid,Male,2017-12-30 17:52:12.243000+00:00,Mr. Meeseeks Box
+243,Mr. Needful,Alive,Humanoid,Male,2017-12-30 17:54:06.996000+00:00,unknown
+244,Mr. Poopybutthole,Alive,Poopybutthole,Male,2017-12-30 18:03:48.054000+00:00,unknown
+245,Mrs. Lipkip,Alive,Human,Female,2017-12-30 18:05:59.999000+00:00,Earth (Replacement Dimension)
+246,Mrs. Pancakes,Alive,Human,Female,2017-12-30 18:09:39.304000+00:00,Earth (C-137)
+247,Amy Poopybutthole,Alive,Poopybutthole,Female,2017-12-30 18:10:48.293000+00:00,unknown
+248,Mrs. Refrigerator,Dead,Alien,Female,2017-12-30 18:12:38.369000+00:00,unknown
+249,Mrs. Sanchez,unknown,Human,Female,2017-12-30 18:18:10.965000+00:00,unknown
+250,Mrs. Sullivan,Dead,Human,Female,2017-12-30 18:24:49.372000+00:00,Earth (C-500A)
+251,Nancy,Alive,Human,Female,2017-12-31 12:46:54.095000+00:00,Earth (Replacement Dimension)
+252,Noob-Noob,Alive,Poopybutthole,Male,2017-12-31 12:57:37.849000+00:00,unknown
+253,Numbericon,unknown,Alien,unknown,2017-12-31 13:04:01.585000+00:00,unknown
+254,Octopus Man,Alive,Humanoid,Male,2017-12-31 13:06:35.982000+00:00,unknown
+255,Orthodox Jew,Alive,Human,Male,2017-12-31 13:19:29.825000+00:00,Earth (Replacement Dimension)
+256,Pat Gueterman,Dead,Robot,Male,2017-12-31 13:23:08.567000+00:00,unknown
+257,Paul Fleishman,Alive,Human,Male,2017-12-31 13:23:47.704000+00:00,unknown
+258,Pawnshop Clerk,Alive,Alien,Male,2017-12-31 13:30:33.611000+00:00,unknown
+259,Pencilvester,Dead,Alien,Male,2017-12-31 13:33:48.488000+00:00,unknown
+260,Phillip Jacobs,Alive,Human,Male,2017-12-31 13:34:58.839000+00:00,unknown
+261,Photography Cyborg,unknown,Robot,Male,2017-12-31 13:38:53.640000+00:00,unknown
+262,Photography Raptor,Dead,Alien,unknown,2017-12-31 13:40:32.312000+00:00,unknown
+263,Pibbles Bodyguard,Alive,Alien,Male,2017-12-31 13:43:30.513000+00:00,unknown
+264,Pichael Thompson,Alive,Humanoid,Male,2017-12-31 13:44:43.176000+00:00,unknown
+265,Pickle Rick,Alive,unknown,Male,2017-12-31 13:47:10.617000+00:00,Earth (C-137)
+266,Piece of Toast,Alive,unknown,Genderless,2017-12-31 13:48:58.850000+00:00,unknown
+267,Plumber Rick,Alive,Human,Male,2017-12-31 13:50:57.337000+00:00,unknown
+268,Poncho,Dead,Human,Male,2017-12-31 13:53:25.411000+00:00,unknown
+269,Presidentress of The Mega Gargantuans,Alive,Humanoid,Female,2017-12-31 14:01:44.995000+00:00,Mega Gargantuan Kingdom
+270,Prince Nebulon,Dead,Alien,Male,2017-12-31 14:05:24.406000+00:00,unknown
+271,Principal Vagina,Alive,Cronenberg,Male,2017-12-31 14:08:43.602000+00:00,Earth (C-137)
+272,Principal Vagina,Alive,Human,Male,2017-12-31 14:09:09.071000+00:00,Earth (Replacement Dimension)
+273,Purge Planet Ruler,Dead,Alien,Male,2017-12-31 14:13:54.909000+00:00,Purge Planet
+274,Quantum Rick,unknown,Human,Male,2017-12-31 14:15:28.051000+00:00,unknown
+275,Randy Dicknose,Alive,Human,Male,2017-12-31 14:16:45.776000+00:00,unknown
+276,Rat Boss,Dead,Animal,unknown,2017-12-31 14:17:21.782000+00:00,Earth (Replacement Dimension)
+277,Real Fake Doors Salesman,Alive,Human,Male,2017-12-31 14:18:30.570000+00:00,unknown
+278,Regional Manager Rick,Dead,Human,Male,2017-12-31 14:19:36.487000+00:00,unknown
+279,Regular Legs,Alive,Human,Male,2017-12-31 14:20:31.936000+00:00,unknown
+280,Reverse Giraffe,Dead,Alien,Male,2017-12-31 14:22:46.285000+00:00,unknown
+281,Reverse Rick Outrage,Dead,Human,Male,2017-12-31 14:23:53.056000+00:00,unknown
+282,Revolio Clockberg Jr.,unknown,Alien,Male,2017-12-31 19:21:17.351000+00:00,Gear World
+283,Rick D. Sanchez III,Dead,Human,Male,2017-12-31 19:23:53.188000+00:00,unknown
+284,Rick Guilt Rick,unknown,Human,Male,2017-12-31 19:25:18.205000+00:00,unknown
+285,Rick Prime,Dead,Human,Male,2017-12-31 19:45:46.470000+00:00,unknown
+286,Rick D-99,Dead,Human,Male,2017-12-31 19:49:55.181000+00:00,Earth (D-99)
+287,Rick D716,Dead,Human,Male,2017-12-31 19:51:33.244000+00:00,Earth (D716)
+288,Rick D716-B,Alive,Human,Male,2017-12-31 19:55:25.101000+00:00,Earth (D716-B)
+289,Rick D716-C,Alive,Human,Male,2017-12-31 19:57:36.546000+00:00,Earth (D716-C)
+290,Rick Sanchez,Dead,Human,Male,2017-12-31 20:15:25.716000+00:00,Earth (Evil Rick's Target Dimension)
+291,Rick J-22,Alive,Human,Male,2017-12-31 20:16:52.337000+00:00,Earth (J-22)
+292,Rick K-22,Alive,Human,Male,2017-12-31 20:20:40.484000+00:00,Earth (K-22)
+293,Rick Sanchez,Dead,Human,Male,2017-12-31 20:22:29.032000+00:00,Earth (Replacement Dimension)
+294,Ricktiminus Sancheziminius,Dead,Human,Male,2017-12-31 20:24:30.396000+00:00,unknown
+295,Riq IV,Dead,Human,Male,2017-12-31 20:25:28.554000+00:00,unknown
+296,Risotto Groupon,Dead,Alien,Male,2017-12-31 20:32:33.361000+00:00,Resort Planet
+297,Risotto's Tentacled Henchman,Dead,Alien,Male,2017-12-31 20:34:58.394000+00:00,Resort Planet
+298,Robot Morty,unknown,Robot,Male,2017-12-31 20:37:30.747000+00:00,unknown
+299,Robot Rick,unknown,Robot,Male,2017-12-31 20:38:17.990000+00:00,unknown
+300,Roger,Dead,Human,Male,2017-12-31 20:39:35.047000+00:00,Earth (C-137)
+301,Ron Benson,Alive,Alien,Male,2018-01-05 14:02:20.902000+00:00,Unity's Planet
+302,Ruben,Dead,Human,Male,2018-01-05 14:03:21.824000+00:00,Earth (C-137)
+303,Samantha,Alive,Human,Female,2018-01-05 14:09:03.150000+00:00,Earth (C-137)
+304,Scary Brandon,Alive,Mythological Creature,Male,2018-01-05 14:11:17.550000+00:00,Mr. Goldenfold's dream
+305,Scary Glenn,Alive,Mythological Creature,Male,2018-01-05 14:11:53.287000+00:00,Mr. Goldenfold's dream
+306,Scary Terry,Alive,Mythological Creature,Male,2018-01-05 14:13:01.564000+00:00,Mr. Goldenfold's dream
+307,Scroopy Noopers,Alive,Alien,Male,2018-01-05 14:20:41.693000+00:00,Pluto
+308,Scropon,unknown,Alien,Male,2018-01-05 14:22:47.706000+00:00,unknown
+309,Scrotian,Alive,Animal,Male,2018-01-05 14:26:50.679000+00:00,unknown
+310,Self-Congratulatory Jerry,unknown,Mythological Creature,Male,2018-01-05 14:29:21.347000+00:00,Nuptia 4
+311,Shimshamian,Alive,Alien,Male,2018-01-05 14:44:01.276000+00:00,unknown
+312,Shlaammi,Alive,Alien,unknown,2018-01-05 14:45:39.235000+00:00,unknown
+313,Shleemypants,Alive,unknown,Male,2018-01-05 14:52:31.489000+00:00,unknown
+314,Shmlamantha Shmlicelli,Alive,Human,Female,2018-01-05 14:53:23.739000+00:00,unknown
+315,Shmlangela Shmlobinson-Shmlower,Alive,Human,Female,2018-01-05 14:54:37.641000+00:00,unknown
+316,Shmlona Shmlobinson,Alive,Human,Female,2018-01-05 14:55:42.034000+00:00,unknown
+317,Shmlonathan Shmlower,Alive,Human,Male,2018-01-05 14:56:15.428000+00:00,unknown
+318,Shmlony Shmlicelli,Alive,Human,Male,2018-01-05 14:56:45.502000+00:00,unknown
+319,Shmooglite Runner,unknown,Alien,Male,2018-01-05 14:59:34.798000+00:00,Resort Planet
+320,Shnoopy Bloopers,unknown,Alien,Male,2018-01-05 15:02:28.103000+00:00,unknown
+321,Shrimply Pibbles,Alive,Alien,Male,2018-01-05 15:07:50.789000+00:00,unknown
+322,Simple Rick,Dead,Human,Male,2018-01-05 15:12:03.933000+00:00,unknown
+323,Slaveowner,Dead,Human,Male,2018-01-05 15:13:46.862000+00:00,Post-Apocalyptic Earth
+324,Sleepy Gary,Dead,Alien,Male,2018-01-05 15:17:26.876000+00:00,unknown
+325,Slick Morty,Dead,Human,Male,2018-01-10 16:06:48.366000+00:00,unknown
+326,Slippery Stair,Alive,Mythological Creature,Male,2018-01-10 16:11:09.964000+00:00,Fantasy World
+327,Slow Mobius,Alive,Humanoid,Male,2018-01-10 16:13:26.380000+00:00,unknown
+328,Slow Rick,Alive,Human,Male,2018-01-10 16:14:16.331000+00:00,unknown
+329,Snuffles (Snowball),Alive,Animal,Male,2018-01-10 16:24:49.586000+00:00,Earth (C-137)
+330,Solicitor Rick,unknown,Human,Male,2018-01-10 16:26:27.705000+00:00,unknown
+331,Squanchy,unknown,Alien,Male,2018-01-10 16:29:25.344000+00:00,Planet Squanch
+332,Stacy,Alive,Human,Female,2018-01-10 16:31:10.465000+00:00,Earth (Replacement Dimension)
+333,Stair Goblin,Alive,Mythological Creature,Genderless,2018-01-10 16:34:19.420000+00:00,unknown
+334,Stealy,Alive,Poopybutthole,Male,2018-01-10 16:36:06.982000+00:00,unknown
+335,Steve,Alive,Human,Male,2018-01-10 16:39:34.837000+00:00,Earth (Replacement Dimension)
+336,Steven Phillips,Alive,Alien,Male,2018-01-10 16:44:51.702000+00:00,Unity's Planet
+337,Stu,Dead,Alien,Male,2018-01-10 16:50:57.710000+00:00,unknown
+338,Summer Smith,Alive,Human,Female,2018-01-10 16:55:03.390000+00:00,Earth (C-137)
+339,Summer Smith,Alive,Human,Female,2018-01-10 16:56:28.489000+00:00,Earth (Evil Rick's Target Dimension)
+340,Supernova,Alive,Human,Female,2018-01-10 17:02:58.042000+00:00,unknown
+341,Taddy Mason,Alive,Human,Male,2018-01-10 17:07:09.052000+00:00,Earth (Replacement Dimension)
+342,Taint Washer,Alive,Human,Male,2018-01-10 17:23:26.944000+00:00,Post-Apocalyptic Earth
+343,Tammy Guetermann,Alive,Cronenberg,Female,2018-01-10 17:27:04.773000+00:00,Earth (C-137)
+344,Tammy Guetermann,Dead,Human,Female,2018-01-10 17:31:54.889000+00:00,Earth (Replacement Dimension)
+345,Teacher Rick,Alive,Human,Male,2018-01-10 17:33:23.437000+00:00,unknown
+346,Terry,unknown,Human,Male,2018-01-10 17:37:51.767000+00:00,Earth (Replacement Dimension)
+347,President Curtis,Alive,Human,Male,2018-01-10 17:43:37.411000+00:00,Earth (Replacement Dimension)
+348,The President of the Miniverse,Dead,Humanoid,Male,2018-01-10 17:47:59.043000+00:00,Zeep Xanflorp's Miniverse
+349,The Scientist Formerly Known as Rick,Dead,Human,Male,2018-01-10 17:49:09.995000+00:00,unknown
+350,Thomas Lipkip,unknown,Human,Male,2018-01-10 17:50:33.471000+00:00,Earth (Replacement Dimension)
+351,Three Unknown Things,Alive,Alien,unknown,2018-01-10 17:57:31.022000+00:00,unknown
+352,Tinkles,Dead,Alien,Female,2018-01-10 17:58:51.840000+00:00,unknown
+353,Tiny Rick,Dead,Human,Male,2018-01-10 18:00:35.848000+00:00,Earth (Replacement Dimension)
+354,Toby Matthews,Alive,Human,Male,2018-01-10 18:02:03.402000+00:00,Earth (Replacement Dimension)
+355,Todd Crystal,Alive,Alien,Male,2018-01-10 18:05:46.294000+00:00,Unity's Planet
+356,Tom Randolph,Alive,Human,Male,2018-01-10 18:07:03.215000+00:00,Earth (C-137)
+357,Tommy's Clone,Alive,Human,Male,2018-01-10 18:07:45.541000+00:00,Earth (Replacement Dimension)
+358,Tophat Jones,Dead,Mythological Creature,Male,2018-01-10 18:09:34.482000+00:00,unknown
+359,Tortured Morty,unknown,Human,Male,2018-01-10 18:14:50.992000+00:00,unknown
+360,Toxic Morty,Dead,Humanoid,Male,2018-01-10 18:18:05.422000+00:00,Detoxifier
+361,Toxic Rick,Dead,Humanoid,Male,2018-01-10 18:20:41.703000+00:00,Detoxifier
+362,Traflorkian,Alive,Alien,unknown,2018-01-10 18:52:08.927000+00:00,unknown
+363,Trandor,Alive,Alien,Male,2018-01-10 18:54:36.578000+00:00,Krootabulon
+364,Tree Person,Dead,Humanoid,unknown,2018-01-10 18:57:50.033000+00:00,Kyle's Teenyverse
+365,Tricia Lange,Alive,Human,Female,2018-01-10 18:59:31.842000+00:00,Earth (Replacement Dimension)
+366,Trunk Morty,Alive,Humanoid,Male,2018-01-10 19:03:13.558000+00:00,Trunk World
+367,Trunk Man,Alive,Humanoid,Male,2018-01-10 19:05:34.004000+00:00,Trunk World
+368,Truth Tortoise,unknown,Mythological Creature,Male,2018-01-10 19:14:35.885000+00:00,unknown
+369,Tusked Assassin,unknown,Alien,Male,2018-01-10 19:17:00.093000+00:00,Resort Planet
+370,Two Guys with Handlebar Mustaches,Alive,Human,Male,2018-01-10 19:17:57.976000+00:00,unknown
+371,Tumblorkian,Alive,Alien,Male,2018-01-10 19:18:44.560000+00:00,Plopstar
+372,Unity,Alive,Alien,Genderless,2018-01-10 19:20:50.211000+00:00,unknown
+373,Unmuscular Michael,Alive,Human,Male,2018-01-10 19:22:04.075000+00:00,unknown
+374,Vampire Master,Alive,Mythological Creature,Male,2018-01-10 19:23:45.478000+00:00,Earth (Replacement Dimension)
+375,Vance Maximus,Dead,Human,Male,2018-01-10 19:26:00.957000+00:00,unknown
+376,Veronica Ann Bennet,Alive,Alien,Female,2018-01-10 19:27:06.246000+00:00,Gazorpazorp
+377,Voltematron,Dead,Alien,unknown,2018-01-10 19:29:08.116000+00:00,unknown
+378,Wall Crawling Rick,unknown,Humanoid,Male,2018-01-10 19:33:30.804000+00:00,unknown
+379,Wedding Bartender,unknown,Alien,Male,2018-01-10 19:37:41.375000+00:00,unknown
+380,Unknown Rick,unknown,Human,Male,2018-01-10 19:44:22.262000+00:00,unknown
+381,Woman Rick,Alive,Alien,Female,2018-01-10 19:46:00.622000+00:00,unknown
+382,Worldender,Dead,Alien,Male,2018-01-10 19:47:55.859000+00:00,unknown
+383,Yaarb,Alive,Alien,Male,2018-01-10 19:48:59.952000+00:00,unknown
+384,Yellow Headed Doctor,Alive,Alien,Male,2018-01-10 19:50:19.351000+00:00,unknown
+385,Yellow Shirt Rick,unknown,Human,Male,2018-01-10 19:51:18.996000+00:00,unknown
+386,Zarbadar Gloonch,Dead,Alien,Female,2018-01-10 19:52:40.898000+00:00,unknown
+387,Zarbadar's Mytholog,unknown,Mythological Creature,Female,2018-01-10 19:54:17.951000+00:00,Nuptia 4
+388,Zeep Xanflorp,Alive,Humanoid,Male,2018-01-10 19:56:57.790000+00:00,Rick's Battery Microverse
+389,Zeta Alpha Rick,Dead,Human,Male,2018-01-10 19:57:41.191000+00:00,unknown
+390,Zick Zack,Dead,Alien,Male,2018-01-10 20:00:05.681000+00:00,unknown
+391,Uncle Steve,Dead,Alien,Male,2018-01-14 13:34:50.096000+00:00,unknown
+392,Bearded Morty,Alive,Human,Male,2018-01-14 14:48:05.977000+00:00,unknown
+393,Roy,Alive,Human,Male,2018-01-20 19:15:27.239000+00:00,Roy: A Life Well Lived
+394,Davin,Dead,Cronenberg,Male,2018-01-20 19:48:42.201000+00:00,Earth (C-137)
+395,Greebybobe,Alive,Alien,unknown,2018-04-15 16:46:31.715000+00:00,Girvonesk
+396,Scary Teacher,Alive,Mythological Creature,Male,2018-04-15 17:10:07.639000+00:00,Mr. Goldenfold's dream
+397,Fido,Alive,Animal,Male,2018-04-15 17:15:28.777000+00:00,Snuffles' Dream
+398,Accountant dog,Alive,Animal,Male,2018-04-15 17:23:04.169000+00:00,Snuffles' Dream
+399,Tiny-persons advocacy group lawyer,Alive,Mythological Creature,Male,2018-04-15 17:34:02.076000+00:00,Giant's Town
+400,Giant Judge,Alive,Mythological Creature,Male,2018-04-15 17:36:11.295000+00:00,Giant's Town
+401,Morty Jr's interviewer,Alive,Human,Male,2018-04-15 17:43:56.832000+00:00,Earth (Replacement Dimension)
+402,Guy from The Bachelor,Alive,Human,Male,2018-04-15 17:45:38.589000+00:00,Earth (Replacement Dimension)
+403,Corn detective,Dead,Humanoid,Male,2018-04-15 17:48:50.629000+00:00,Interdimensional Cable
+404,Michael Jackson,Alive,Humanoid,Male,2018-04-15 18:01:09.637000+00:00,Earth (Phone Dimension)
+405,Trunkphobic suspenders guy,Alive,Human,Male,2018-04-15 20:31:46.065000+00:00,unknown
+406,Spiderweb teddy bear,Alive,Animal,unknown,2018-04-15 20:45:04.863000+00:00,Interdimensional Cable
+407,Regular Tyrion Lannister,Alive,Human,Male,2018-04-15 20:50:10.475000+00:00,Interdimensional Cable
+408,Quick Mystery Presenter,Alive,Human,Male,2018-04-15 20:51:47.778000+00:00,Interdimensional Cable
+409,Mr. Sneezy,Alive,Human,Male,2018-04-15 21:04:09.405000+00:00,Interdimensional Cable
+410,Two Brothers,Alive,Human,Male,2018-04-15 21:06:18.686000+00:00,Interdimensional Cable
+411,Alien Mexican Armada,unknown,Alien,Male,2018-04-15 21:10:27.986000+00:00,Interdimensional Cable
+412,Giant Cat Monster,unknown,Animal,unknown,2018-04-15 21:14:09.223000+00:00,Interdimensional Cable
+413,Old Women,unknown,Human,Female,2018-04-15 21:21:32.623000+00:00,Interdimensional Cable
+414,Trunkphobic guy,Alive,Human,Male,2018-04-15 21:33:59.719000+00:00,Interdimensional Cable
+415,Pro trunk people marriage guy,Alive,Human,Male,2018-04-15 21:34:21.911000+00:00,Interdimensional Cable
+416,Muscular Mannie,Alive,Human,Male,2018-04-15 21:39:22.608000+00:00,Interdimensional Cable
+417,Baby Legs Chief,Alive,Human,Male,2018-04-15 21:40:39.871000+00:00,Interdimensional Cable
+418,Mrs. Sullivan's Boyfriend,Alive,Human,Male,2018-04-15 21:43:43.867000+00:00,Interdimensional Cable
+419,Plutonian Hostess,Alive,Alien,Female,2018-04-15 21:48:45.783000+00:00,Pluto
+420,Plutonian Host,Alive,Alien,Male,2018-04-15 21:49:04.730000+00:00,Pluto
+421,Rich Plutonian,Alive,Alien,Female,2018-04-15 21:51:50.534000+00:00,Pluto
+422,Rich Plutonian,Alive,Alien,Male,2018-04-15 21:52:14.642000+00:00,Pluto
+423,Synthetic Laser Eels,Alive,Animal,unknown,2018-04-16 21:08:47.956000+00:00,Earth (Replacement Dimension)
+424,Pizza-person,Alive,Humanoid,Male,2018-04-16 21:45:55.310000+00:00,Earth (Pizza Dimension)
+425,Pizza-person,Alive,Humanoid,Male,2018-04-16 21:46:18.362000+00:00,Earth (Pizza Dimension)
+426,Greasy Grandma,Alive,Human,Female,2018-04-16 21:51:21.379000+00:00,Greasy Grandma World
+427,Phone-person,Alive,Humanoid,Male,2018-04-16 21:54:05.375000+00:00,Earth (Phone Dimension)
+428,Phone-person,Alive,Humanoid,Male,2018-04-16 21:54:48.372000+00:00,Earth (Phone Dimension)
+429,Chair-person,Alive,Humanoid,Male,2018-04-16 21:59:25.798000+00:00,Earth (Chair Dimension)
+430,Chair-person,Alive,Humanoid,Male,2018-04-16 21:59:48.220000+00:00,Earth (Chair Dimension)
+431,Chair-homeless,Alive,Humanoid,Male,2018-04-16 22:01:17.927000+00:00,Earth (Chair Dimension)
+432,Chair-waiter,Alive,Humanoid,Male,2018-04-16 22:02:26.106000+00:00,Earth (Chair Dimension)
+433,Doopidoo,Alive,Animal,unknown,2018-04-16 22:05:05.745000+00:00,unknown
+434,Super Weird Rick,unknown,Human,Male,2018-04-16 22:16:17.789000+00:00,unknown
+435,Pripudlian,Alive,Alien,unknown,2018-04-16 22:21:57.962000+00:00,unknown
+436,Giant Testicle Monster,Alive,Alien,unknown,2018-04-16 22:33:01.337000+00:00,Testicle Monster Dimension
+437,Michael,Alive,Human,Male,2018-05-01 11:51:10.604000+00:00,Earth (Replacement Dimension)
+438,Michael's Lawyer,Alive,Human,Male,2018-05-01 11:57:16.266000+00:00,Earth (Replacement Dimension)
+439,Veterinary,Alive,Human,Female,2018-05-01 11:58:43.275000+00:00,Earth (Replacement Dimension)
+440,Veterinary Nurse,Alive,Human,Male,2018-05-01 11:59:15.544000+00:00,Earth (Replacement Dimension)
+441,Bearded Jerry,Alive,Human,Male,2018-05-01 12:09:22.636000+00:00,unknown
+442,Shaved Head Jerry,Alive,Human,Male,2018-05-01 12:10:35.123000+00:00,unknown
+443,Tank Top Jerry,Alive,Human,Male,2018-05-01 12:23:37.165000+00:00,unknown
+444,Pink Polo Shirt Jerry,Alive,Human,Male,2018-05-01 12:27:08.632000+00:00,unknown
+445,Jerryboree Keeper,Alive,Alien,Female,2018-05-01 13:09:57.921000+00:00,unknown
+446,Jerryboree Receptionist,Alive,Alien,Male,2018-05-01 13:11:26.665000+00:00,unknown
+447,Anchor Gear,Alive,Alien,Male,2018-05-01 13:34:56.141000+00:00,Gear World
+448,Gear Cop,Dead,Alien,Male,2018-05-01 13:38:21.237000+00:00,Gear World
+449,Roy's Mum,Alive,Human,Female,2018-05-01 13:55:27.886000+00:00,Roy: A Life Well Lived
+450,Roy's Wife,Alive,Human,Male,2018-05-01 13:57:55.888000+00:00,Roy: A Life Well Lived
+451,Roy's Son,Alive,Human,Male,2018-05-01 13:59:18.964000+00:00,Roy: A Life Well Lived
+452,Simon,Alive,Human,Male,2018-05-01 14:20:10.187000+00:00,Earth (Replacement Dimension)
+453,Vampire Master's Assistant,Alive,Mythological Creature,Male,2018-05-01 15:20:15.582000+00:00,unknown
+454,Arbolian Mentirososian,Alive,Alien,unknown,2018-05-01 15:30:21.493000+00:00,Árboles Mentirosos
+455,St. Gloopy Noops Nurse,Alive,Alien,Female,2018-05-01 15:34:19.679000+00:00,unknown
+456,Nano Doctor,Alive,Alien,Male,2018-05-01 15:42:07.919000+00:00,unknown
+457,Funny Songs Presenter,Alive,Human,Male,2018-05-01 16:08:23.458000+00:00,unknown
+458,Tax Attorney,unknown,Human,Male,2018-05-01 16:11:17.925000+00:00,unknown
+459,Butthole Ice Cream Guy,Alive,Alien,Male,2018-05-01 16:53:23.462000+00:00,unknown
+460,Traflorkian Journalist,Alive,Alien,Male,2018-05-01 17:03:39.846000+00:00,unknown
+461,Communication's Responsible Rick,Dead,Human,Male,2018-05-22 16:06:28.494000+00:00,unknown
+462,Teleportation's Responsible Rick,unknown,Human,Male,2018-05-22 16:16:02.653000+00:00,unknown
+463,SEAL Team Rick,Dead,Human,Male,2018-05-22 16:21:44.379000+00:00,unknown
+464,SEAL Team Rick,Dead,Human,Male,2018-05-22 16:21:58.176000+00:00,unknown
+465,SEAL Team Rick,Dead,Human,Male,2018-05-22 16:22:12.309000+00:00,unknown
+466,SEAL Team Rick,Dead,Human,Male,2018-05-22 16:23:24.470000+00:00,unknown
+467,Morphizer-XE Customer Support,Alive,Alien,Male,2018-05-22 16:46:18.038000+00:00,unknown
+468,Morphizer-XE Customer Support,Alive,Alien,Male,2018-05-22 16:46:37.603000+00:00,unknown
+469,Morphizer-XE Customer Support,unknown,Alien,Male,2018-05-22 16:46:50.518000+00:00,unknown
+470,Alien Spa Employee,Alive,Alien,Male,2018-05-22 17:01:59.602000+00:00,unknown
+471,Little Voltron,Alive,Robot,Genderless,2018-05-22 17:07:21.833000+00:00,unknown
+472,Baby Rick,Alive,Human,Male,2018-05-22 17:11:53.084000+00:00,Citadel of Ricks
+473,Bartender Morty,Alive,Human,Male,2018-05-22 17:14:41.628000+00:00,unknown
+474,Dancer Cowboy Morty,Alive,Human,Male,2018-05-22 17:17:10.102000+00:00,unknown
+475,Dancer Morty,Alive,Human,Male,2018-05-22 17:17:49.270000+00:00,unknown
+476,Flower Morty,Alive,Human,Male,2018-05-22 17:18:46.129000+00:00,unknown
+477,Hairdresser Rick,Alive,Human,Male,2018-05-22 17:19:36.127000+00:00,unknown
+478,Journalist Rick,Alive,Human,Male,2018-05-22 17:22:18.417000+00:00,unknown
+479,Private Sector Rick,Dead,Human,Male,2018-05-22 17:23:18.546000+00:00,unknown
+480,Purple Morty,Alive,Alien,Male,2018-05-22 17:24:38.571000+00:00,unknown
+481,Retired General Rick,unknown,Human,Male,2018-05-22 17:29:50.642000+00:00,unknown
+482,Secret Service Rick,Alive,Human,Male,2018-05-22 17:32:32.561000+00:00,unknown
+483,Steve Jobs Rick,Alive,Human,Male,2018-05-22 17:33:33.815000+00:00,unknown
+484,Sheik Rick,Dead,Human,Male,2018-05-22 17:35:26.250000+00:00,unknown
+485,Modern Rick,Alive,Human,Male,2018-05-22 17:36:56.925000+00:00,unknown
+486,Tan Rick,Dead,Human,Male,2018-05-22 17:37:37.764000+00:00,unknown
+487,Visor Rick,Dead,Human,Male,2018-05-22 17:38:28.593000+00:00,unknown
+488,Colonial Rick,Dead,Human,Male,2018-05-22 17:39:06.439000+00:00,unknown
+489,P-Coat Rick,Dead,Human,Male,2018-05-22 17:39:37.604000+00:00,unknown
+490,Chang,Alive,Human,Male,2018-05-22 17:43:52.543000+00:00,unknown
+491,Dr. Eleanor Arroway,Alive,Human,Female,2018-05-22 17:44:32.071000+00:00,unknown
+492,Varrix,Alive,Alien,unknown,2018-05-22 17:49:13.883000+00:00,unknown
+493,Secretary of the Interior,Alive,Human,Male,2018-05-22 17:51:07.373000+00:00,Earth (Replacement Dimension)
+494,Crystal Poacher,Dead,Alien,Male,2020-05-02 10:05:08.737000+00:00,unknown
+495,Crystal Poacher,Dead,Alien,Male,2020-05-02 10:10:44.766000+00:00,unknown
+496,Crystal Poacher,Dead,Alien,Male,2020-05-02 10:27:21.015000+00:00,unknown
+497,Hologram Rick,Dead,Humanoid,Male,2020-05-02 10:30:38.622000+00:00,Earth (Replacement Dimension)
+498,Fascist Rick,Dead,Human,Male,2020-05-02 10:34:12.495000+00:00,Earth (Fascist Dimension)
+499,Fascist Morty,Dead,Human,Male,2020-05-02 11:24:36.156000+00:00,Earth (Fascist Dimension)
+500,Fascist Mr. President,Alive,Human,Male,2020-05-02 11:25:26.903000+00:00,Earth (Fascist Dimension)
+501,Fascist Rick’s Clone,Dead,Human,Male,2020-05-02 11:28:36.137000+00:00,Earth (Fascist Dimension)
+502,Revolio Clockberg Jr.,Dead,Alien,Male,2020-05-02 11:35:26.572000+00:00,Earth (Fascist Dimension)
+503,Fascist Shrimp Rick,Alive,Animal,Male,2020-05-02 11:53:46.229000+00:00,Earth (Fascist Shrimp Dimension)
+504,Fascist Shrimp Rick’s Clone,Dead,Animal,Male,2020-05-02 12:05:12.832000+00:00,Earth (Fascist Shrimp Dimension)
+505,Fascist Shrimp Morty,Alive,Animal,Male,2020-05-02 12:11:23.379000+00:00,Earth (Fascist Shrimp Dimension)
+506,Fascist Shrimp SS,Alive,Animal,Male,2020-05-02 12:13:03.799000+00:00,Earth (Fascist Shrimp Dimension)
+507,Fascist Teddy Bear Rick,Alive,Animal,Male,2020-05-02 12:18:23.346000+00:00,Earth (Fascist Teddy Bear Dimension)
+508,Fascist Teddy Bear Rick’s Clone,Dead,Animal,Male,2020-05-02 12:20:28.005000+00:00,Earth (Fascist Teddy Bear Dimension)
+509,Bully,unknown,Human,Male,2020-05-02 12:22:11.339000+00:00,Earth (Replacement Dimension)
+510,Anchorman,Alive,Human,Male,2020-05-02 12:23:38.655000+00:00,Earth (Replacement Dimension)
+511,Anchorwoman,Alive,Human,Female,2020-05-02 12:24:07.452000+00:00,Earth (Replacement Dimension)
+512,Morty’s Lawyer,Alive,Human,Male,2020-05-02 12:25:59.290000+00:00,Earth (Replacement Dimension)
+513,Judge,Dead,Human,Female,2020-05-02 12:27:08.223000+00:00,Earth (Replacement Dimension)
+514,Public Opinion Judge,Alive,Human,Female,2020-05-02 12:28:05.671000+00:00,Earth (Replacement Dimension)
+515,Caterpillar Mr. Goldenfold,Dead,Animal,Male,2020-05-02 12:34:49.151000+00:00,Earth (Wasp Dimension)
+516,Wasp Rick,Alive,Animal,Male,2020-05-02 12:36:47.872000+00:00,Earth (Wasp Dimension)
+517,Wasp Rick’s Clone,unknown,Animal,Male,2020-05-02 12:38:18.097000+00:00,Earth (Wasp Dimension)
+518,Wasp Morty,Alive,Animal,Male,2020-05-02 12:39:50.688000+00:00,Earth (Wasp Dimension)
+519,Wasp Summer,Alive,Animal,Female,2020-05-02 12:40:45.760000+00:00,Earth (Wasp Dimension)
+520,Wasp Jerry,Alive,Animal,Male,2020-05-02 12:41:19.879000+00:00,Earth (Wasp Dimension)
+521,Wasp Beth,Alive,Animal,Female,2020-05-02 12:41:48.912000+00:00,Earth (Wasp Dimension)
+522,Caterpillar Mr. Goldenfold’s Larvae,Dead,Animal,unknown,2020-05-02 12:43:21.266000+00:00,Earth (Wasp Dimension)
+523,Boglin,unknown,unknown,unknown,2020-05-02 12:50:15.005000+00:00,Earth (Replacement Dimension)
+524,Kirkland Brand Mr. Meeseeks,unknown,Humanoid,Male,2020-05-02 12:52:58.134000+00:00,Mr. Meeseeks Box
+525,Glootie,Alive,Alien,Male,2020-05-02 13:13:31.593000+00:00,unknown
+526,Danny Publitz,Alive,Human,Male,2020-05-02 13:14:28.386000+00:00,Earth (Replacement Dimension)
+527,Mothership Intern,Alive,Alien,Male,2020-05-02 13:26:53.358000+00:00,unknown
+528,Monogatron Leader,Alive,Alien,Male,2020-05-02 13:27:50.476000+00:00,unknown
+529,Lizard,Dead,Alien,Male,2020-05-02 13:31:49.867000+00:00,Midland Quasar
+530,Deliverance,Dead,Robot,Genderless,2020-05-02 13:32:41.259000+00:00,Midland Quasar
+531,Tony,Dead,Alien,Male,2020-05-02 13:35:07.498000+00:00,unknown
+532,Tony’s Wife,Dead,Alien,Female,2020-05-02 13:45:32.092000+00:00,Globaflyn
+533,Monogatron Queen,Alive,Alien,Female,2020-05-02 13:46:10.906000+00:00,unknown
+534,Tony's Dad,Alive,Alien,Male,2020-05-02 13:52:06.880000+00:00,unknown
+535,Jeff,Alive,Human,Male,2020-05-02 13:54:21.374000+00:00,Earth (Replacement Dimension)
+536,Josiah,Alive,Human,Male,2020-05-02 13:54:48.651000+00:00,Earth (Replacement Dimension)
+537,Maggie,Alive,Human,Female,2020-05-02 13:55:15.098000+00:00,Earth (Replacement Dimension)
+538,Priest Witherspoon,Alive,Human,Male,2020-05-02 13:55:45.767000+00:00,Earth (Replacement Dimension)
+539,Richard,Alive,Human,Male,2020-05-02 13:56:14.834000+00:00,Earth (Replacement Dimension)
+540,Running Bird,Alive,Human,Male,2020-05-02 13:56:45.926000+00:00,Earth (Replacement Dimension)
+541,Secretary at Tony's,Alive,Alien,Female,2020-05-02 13:57:49.250000+00:00,unknown
+542,Mountain Sweat Jerry,Alive,Human,Male,2020-05-02 13:58:42.083000+00:00,Globaflyn
+543,Vermigurber,Alive,Alien,Male,2020-05-07 09:05:37.614000+00:00,unknown
+544,Miles Knightly,Dead,Alien,Male,2020-05-07 09:09:06.114000+00:00,unknown
+545,Heist-Con Receptionist,Alive,Alien,Female,2020-05-07 09:12:12.200000+00:00,unknown
+546,Angie Flint,Alive,Human,Female,2020-05-07 09:14:00.009000+00:00,unknown
+547,Glar,Alive,Alien,Male,2020-05-07 09:14:34.918000+00:00,unknown
+548,Truckula,Alive,Mythological Creature,Male,2020-05-07 09:19:47.204000+00:00,unknown
+549,Snake Arms,Alive,Alien,Male,2020-05-07 09:51:03.022000+00:00,unknown
+550,Double Microwawe,Alive,Humanoid,Male,2020-05-07 10:07:53.077000+00:00,unknown
+551,Monitor Lord,Alive,Alien,Male,2020-05-07 10:08:49.225000+00:00,unknown
+552,Key Catcher,Alive,Alien,Female,2020-05-07 10:09:21.779000+00:00,unknown
+553,The Shapeshiftress,Alive,Alien,Female,2020-05-07 10:10:37.809000+00:00,unknown
+554,Heistotron,Dead,Robot,Genderless,2020-05-07 10:12:10.339000+00:00,Earth (Replacement Dimension)
+555,Randotron,Dead,Robot,Genderless,2020-05-07 10:12:53.234000+00:00,Earth (Replacement Dimension)
+556,Hephaestus,Alive,Mythological Creature,Male,2020-05-07 10:19:57.456000+00:00,Mount Olympus
+557,Ventriloquiver,Alive,Humanoid,Female,2020-05-07 10:23:26.274000+00:00,Plitzville Montana
+558,Elon Tusk,Alive,Human,Male,2020-05-07 10:26:02.535000+00:00,Earth (Tusk Dimension)
+559,Gramuflackian Anchorman,Dead,Alien,Male,2020-05-07 10:27:19.527000+00:00,Gramuflack
+560,Gramuflackian General,Dead,Alien,Male,2020-05-07 10:28:11.833000+00:00,Gramuflack
+561,Netflix Executive,Alive,Human,Male,2020-05-07 11:19:57.540000+00:00,Earth (Replacement Dimension)
+562,Balthromaw,Alive,Mythological Creature,Male,2020-05-07 11:32:16.357000+00:00,Draygon
+563,The Wizard,Dead,Human,Male,2020-05-07 11:32:52.469000+00:00,Draygon
+564,Talking Cat,Alive,Animal,Male,2020-05-07 11:33:37.456000+00:00,unknown
+565,Debrah,Alive,Mythological Creature,Male,2020-05-07 11:34:43.083000+00:00,Draygon
+566,Debrah’s Partner,Alive,Mythological Creature,Male,2020-05-07 11:35:29.625000+00:00,Draygon
+567,Michael,Alive,Mythological Creature,Male,2020-05-07 11:36:12.044000+00:00,Draygon
+568,Slut Dragon,Alive,Mythological Creature,Male,2020-05-07 11:37:05.857000+00:00,Draygon
+569,Shadow Jacker,Alive,Mythological Creature,Male,2020-05-07 11:37:49.533000+00:00,Draygon
+570,Chachi,Dead,Alien,Male,2020-05-07 12:01:38.426000+00:00,unknown
+571,Slippy,Alive,Animal,Female,2020-05-07 12:10:34.574000+00:00,Earth (Replacement Dimension)
+572,Robot Snake,unknown,Robot,Genderless,2020-05-07 12:11:58.105000+00:00,Snake Planet
+573,Snake Hitler,Dead,Animal,Male,2020-05-07 12:12:53.568000+00:00,Snake Planet
+574,Snake Lincoln,Dead,Animal,Male,2020-05-07 12:13:44.361000+00:00,Snake Planet
+575,Snake Resistance Robot,Dead,Robot,Genderless,2020-05-07 12:15:50.438000+00:00,Snake Planet
+576,Snake Linguist,unknown,Animal,Male,2020-05-07 12:16:53.781000+00:00,Snake Planet
+577,Snake Terminator,unknown,Robot,Male,2020-05-07 12:19:06.599000+00:00,Snake Planet
+578,Snake Soldier,Alive,Animal,Male,2020-05-07 12:19:11.205000+00:00,Snake Planet
+579,Snake with Legs,Alive,Animal,Male,2020-05-07 12:22:08.800000+00:00,Snake Planet
+580,Secret Service Snake,Alive,Animal,Male,2020-05-07 12:23:20.171000+00:00,Snake Planet
+581,Anchosnake,Alive,Animal,Male,2020-05-07 12:24:45.750000+00:00,Snake Planet
+582,Anchosnake,Alive,Animal,Female,2020-05-07 12:25:29.472000+00:00,Snake Planet
+583,80's snake,unknown,Animal,Male,2020-05-07 12:29:30.948000+00:00,Snake Planet
+584,Bar Customer,Alive,Human,Male,2020-05-07 12:37:52.695000+00:00,Earth (Replacement Dimension)
+585,Bartender,Alive,Human,Female,2020-05-07 12:38:23.983000+00:00,Earth (Replacement Dimension)
+586,PC Basketball Player,Alive,Human,Male,2020-05-07 12:42:24.982000+00:00,Earth (Replacement Dimension)
+587,Cavesnake,Dead,Animal,Male,2020-05-07 12:45:42.686000+00:00,Snake Planet
+588,Pet Shop Employee,Alive,Human,Male,2020-05-07 12:46:51.424000+00:00,Earth (Replacement Dimension)
+589,Snake Reporter,Alive,Animal,Male,2020-05-07 12:50:06.523000+00:00,Snake Planet
+590,High Pilot,unknown,Human,Male,2020-05-07 12:55:35.833000+00:00,Earth (Replacement Dimension)
+591,High Pilot,unknown,Human,Male,2020-05-07 12:56:10.200000+00:00,Earth (Replacement Dimension)
+592,Phoenixperson,Dead,Alien,Male,2020-08-05 12:43:16.671000+00:00,Bird World
+593,Tickets Please Guy,Dead,Human,Male,2020-08-06 09:51:15.102000+00:00,Story Train
+594,Floaty Bloody Man,Dead,Human,Male,2020-08-06 09:54:08.973000+00:00,Tickets Please Guy Nightmare
+595,Floaty Non-Gasm Brotherhood Member,Dead,Alien,Male,2020-08-06 11:30:50.675000+00:00,Tickets Please Guy Nightmare
+596,Floaty Non-Gasm Brotherhood Member Friend,Dead,Alien,Female,2020-08-06 11:31:40.334000+00:00,Tickets Please Guy Nightmare
+597,Abradolf Lincler,Alive,Human,Male,2020-08-06 11:33:03.426000+00:00,Story Train
+598,Biblesaurus,Alive,Animal,Male,2020-08-06 11:37:30.354000+00:00,Story Train
+599,Birdperson,Alive,Alien,Male,2020-08-06 11:39:56.623000+00:00,Story Train
+600,Cats Fan,Alive,Alien,Female,2020-08-06 11:40:42.974000+00:00,Story Train
+601,Christmas Storyteller,Alive,Alien,Male,2020-08-06 11:41:34.260000+00:00,Story Train
+602,Cookies Guy,Alive,Human,Male,2020-08-06 11:43:40.230000+00:00,Morty’s Story
+603,Crossy,Alive,unknown,Genderless,2020-08-06 11:46:17.792000+00:00,Ricks’s Story
+604,Female Scorpion,Dead,Animal,Female,2020-08-06 11:48:01.937000+00:00,Morty’s Story
+605,Floaty Bloody Man’s Daughter,Dead,Human,Female,2020-08-06 11:48:09.608000+00:00,Tickets Please Guy Nightmare
+606,Goomby,Alive,Alien,Male,2020-08-06 12:34:29.455000+00:00,Story Train
+607,Hairspray Fan,Alive,Alien,Female,2020-08-06 12:35:20.673000+00:00,Story Train
+608,Jesus Christ,Alive,Human,Male,2020-08-06 12:36:05.897000+00:00,Ricks’s Story
+609,Josh,Dead,Human,Male,2020-08-06 12:43:52.810000+00:00,Tickets Please Guy Nightmare
+610,Josh's Sister,Dead,Human,Female,2020-08-06 12:44:35.845000+00:00,Tickets Please Guy Nightmare
+611,Leah,Alive,unknown,Female,2020-08-06 12:47:45.761000+00:00,Story Train
+612,Marcus,Alive,Human,Male,2020-08-06 12:48:25.333000+00:00,Story Train
+613,Mike Johnson,Alive,Human,Male,2020-08-06 12:49:32.604000+00:00,Morty’s Story
+614,Mr. Celery & Friends,Alive,unknown,Genderless,2020-08-06 12:51:12.254000+00:00,Ricks’s Story
+615,Musical Fan,Alive,Alien,Male,2020-08-06 12:52:20.880000+00:00,Story Train
+616,Phantom of the Opera Fan,Alive,Alien,Male,2020-08-06 12:52:54.712000+00:00,Story Train
+617,Phoenixperson,Alive,Alien,Male,2020-08-06 12:54:15.895000+00:00,Story Train
+618,Private Smith,unknown,Human,Male,2020-08-06 12:55:53.895000+00:00,Story Train
+619,Professor Sanchez,Dead,Human,Male,2020-08-06 12:56:56.606000+00:00,Story Train
+620,Ramamama Lord,Alive,Human,Male,2020-08-06 15:58:14.525000+00:00,Story Train
+621,Ruth Bader Ginsburg,Alive,Human,Female,2020-08-06 15:59:05.320000+00:00,Morty’s Story
+622,Sarge,Alive,Human,Male,2020-08-06 15:59:44.277000+00:00,Story Train
+623,Shrek The Musical Fan,Alive,Alien,Male,2020-08-06 16:01:42.796000+00:00,Story Train
+624,Snuffles,Alive,Animal,Male,2020-08-06 16:03:17.291000+00:00,Story Train
+625,Storylord,Alive,Human,Male,2020-08-06 16:24:53.547000+00:00,Story Train
+626,Tammy Guetermann,Alive,Human,Female,2020-08-06 16:34:20.500000+00:00,Story Train
+627,The Concept of Time,Alive,unknown,Genderless,2020-08-06 16:35:31.655000+00:00,Story Train
+628,Beth Smith,Alive,Human,Female,2020-08-06 16:36:20.255000+00:00,Morty’s Story
+629,Summer Smith,Alive,Human,Female,2020-08-06 16:37:48.051000+00:00,Morty’s Story
+630,Morty Smith,Alive,Human,Male,2020-08-06 16:38:30.136000+00:00,Story Train
+631,Rick Sanchez,Alive,Human,Male,2020-08-06 16:39:08.485000+00:00,Story Train
+632,Train Cop,Dead,Human,Male,2020-08-06 16:39:50.056000+00:00,Story Train
+633,Train Cops,Alive,Human,Female,2020-08-06 16:40:54.181000+00:00,Story Train
+634,Train Cops Instructor,Dead,Human,Male,2020-08-06 16:42:42.455000+00:00,Story Train
+635,Darth Poopybutthole,Alive,Poopybutthole,Male,2020-08-06 16:43:46.757000+00:00,Ricks’s Story
+636,Evil Morty,Alive,Human,Male,2020-08-06 16:45:03.209000+00:00,Ricks’s Story
+637,Morty’s Disguise,Alive,Human,Female,2020-08-06 16:49:30.253000+00:00,Story Train
+638,Rick’s Disguise,Alive,Human,Male,2020-08-06 16:50:10.447000+00:00,Story Train
+639,Uncle Nibbles,Dead,Alien,Male,2020-08-06 16:51:23.084000+00:00,Tickets Please Guy Nightmare
+640,Angry Glorzo,Dead,Alien,Male,2020-08-07 11:36:14.528000+00:00,Glorzo Asteroid
+641,Bruce,Dead,Alien,Male,2020-08-07 11:37:06.351000+00:00,Glorzo Asteroid
+642,Council of Glorzos Member,Dead,Alien,Male,2020-08-07 11:38:26.393000+00:00,Glorzo Asteroid
+643,Council of Glorzos Member,Dead,Alien,Male,2020-08-07 11:39:06.237000+00:00,Glorzo Asteroid
+644,Old Glorzo,Dead,Alien,Male,2020-08-07 11:40:03.124000+00:00,Glorzo Asteroid
+645,Shane,unknown,Alien,Male,2020-08-07 11:40:51.282000+00:00,Glorzo Asteroid
+646,Steve,Dead,Alien,Male,2020-08-07 11:41:34.032000+00:00,Glorzo Asteroid
+647,Troy,Dead,Alien,Male,2020-08-07 11:42:14.362000+00:00,Glorzo Asteroid
+648,Crystal Dealers Boss,Dead,Alien,Male,2020-08-13 10:09:21.278000+00:00,unknown
+649,Crystal Dealer,Dead,Alien,Male,2020-08-13 10:10:01.602000+00:00,unknown
+650,Crystal Dealer,Dead,Alien,Male,2020-08-13 10:10:33.026000+00:00,unknown
+651,Crystal Dealer,Dead,Alien,Male,2020-08-13 10:11:00.473000+00:00,unknown
+652,SWAT Officer,Dead,Human,Male,2020-08-13 10:16:47.618000+00:00,Merged Universe
+653,Plane Crash Survivor,unknown,Human,Female,2020-08-13 11:16:21.997000+00:00,Near-Duplicate Reality
+654,Plane Crash Survivor,unknown,Human,Male,2020-08-13 11:17:08.527000+00:00,Near-Duplicate Reality
+655,Heroine Keith,Alive,Human,Male,2020-08-13 11:17:47.228000+00:00,Near-Duplicate Reality
+656,Impervious to Acid SWAT Officer,Dead,Human,Male,2020-08-13 11:20:20.047000+00:00,Merged Universe
+657,Johnny Carson,Alive,Human,Male,2020-08-13 11:21:32.236000+00:00,Merged Universe
+658,Sonia Sotomayor,Alive,Human,Female,2020-08-13 11:23:00.414000+00:00,Merged Universe
+659,Morty’s Father-in-law,Alive,Human,Male,2020-08-13 11:23:55.003000+00:00,Near-Duplicate Reality
+660,Morty’s Mother-in-law,Alive,Human,Female,2020-08-13 11:25:50.784000+00:00,Near-Duplicate Reality
+661,Morty’s Girlfriend,Alive,Human,Female,2020-08-13 11:27:29.357000+00:00,Near-Duplicate Reality
+662,Gaia,Alive,unknown,Female,2020-08-13 11:43:23.485000+00:00,Gaia
+663,Reggie,Dead,Mythological Creature,Male,2020-08-13 12:17:15.344000+00:00,Mount Olympus
+664,Ticktock,unknown,Humanoid,Genderless,2020-08-13 12:36:16.345000+00:00,Gaia
+665,Florflock,Alive,Humanoid,Genderless,2020-08-13 12:37:08.881000+00:00,Gaia
+666,Squeeb,Alive,Humanoid,Genderless,2020-08-13 12:37:51.742000+00:00,Gaia
+667,Defiance Beth,Alive,Human,Female,2020-08-13 12:48:55.885000+00:00,Earth (Replacement Dimension)
+668,Defiance Squanchette,Alive,Alien,Female,2020-08-13 12:52:36.873000+00:00,Planet Squanch
+669,Defiance Doctor,Alive,Alien,Male,2020-08-13 12:55:37.437000+00:00,unknown
+670,New Improved Galactic Federation Guard,Dead,Alien,Male,2020-08-13 12:56:31.130000+00:00,Gromflom Prime
+671,New Improved Galactic Federation Guard,Dead,Alien,Male,2020-08-13 12:57:08.113000+00:00,Gromflom Prime
+672,Mr. Nimbus,Alive,Mythological Creature,Male,2021-10-16 11:55:58.042000+00:00,The Ocean
+673,Hoovy,Dead,Humanoid,Male,2021-10-16 12:08:41.055000+00:00,Narnia Dimension
+674,Bova,Dead,Humanoid,Female,2021-10-16 12:41:49.186000+00:00,Narnia Dimension
+675,Japheth,Dead,Humanoid,Male,2021-10-16 12:45:05.291000+00:00,Narnia Dimension
+676,Japheth's Middle Son,Dead,Humanoid,Male,2021-10-16 12:51:53.546000+00:00,Narnia Dimension
+677,Japheth's Eldest Son,Dead,Humanoid,Male,2021-10-16 12:53:02.192000+00:00,Narnia Dimension
+678,Japheth's Youngest Son,Dead,Humanoid,Male,2021-10-16 12:53:46.114000+00:00,Narnia Dimension
+679,Japheth's Grandson,Dead,Humanoid,Male,2021-10-16 13:14:41.846000+00:00,Narnia Dimension
+680,Adam,Dead,Humanoid,Male,2021-10-16 13:18:13.644000+00:00,Narnia Dimension
+681,Adam's Mother,Dead,Humanoid,Female,2021-10-16 13:20:07.710000+00:00,Narnia Dimension
+682,Warlock,Dead,Humanoid,Male,2021-10-16 13:25:48.872000+00:00,Narnia Dimension
+683,Evolved Narnian,Alive,Humanoid,Male,2021-10-16 13:41:40.408000+00:00,Narnia Dimension
+684,Mr. Nimbus Secretary,Alive,Animal,Female,2021-10-16 13:45:26.155000+00:00,The Ocean
+685,Evolved Narnian Disguised as Morty,Alive,Humanoid,Male,2021-10-16 13:49:32.393000+00:00,Narnia Dimension
+686,Mr. Nimbus' Squid,Dead,Animal,Male,2021-10-16 13:51:28.877000+00:00,The Ocean
+687,Scarecrow Rick,Dead,Robot,Male,2021-10-16 15:18:02.052000+00:00,Earth (Replacement Dimension)
+688,Scarecrow Summer,Dead,Robot,Female,2021-10-16 15:19:13.080000+00:00,Earth (Replacement Dimension)
+689,Scarecrow Jerry,Dead,Robot,Male,2021-10-16 15:21:40.918000+00:00,Earth (Replacement Dimension)
+690,Scarecrow Morty,Dead,Robot,Male,2021-10-16 15:22:35.204000+00:00,Earth (Replacement Dimension)
+691,Scarecrow Beth,Dead,Robot,Female,2021-10-16 15:23:21.971000+00:00,Earth (Replacement Dimension)
+692,Glockenspiel Jerry,Alive,Robot,Male,2021-10-16 15:32:27.166000+00:00,Earth (Replacement Dimension)
+693,Glockenspiel Beth,Dead,Robot,Female,2021-10-16 15:34:41.082000+00:00,Earth (Replacement Dimension)
+694,Glockenspiel Rick,Dead,Robot,Male,2021-10-16 15:36:04.423000+00:00,Earth (Replacement Dimension)
+695,Glockenspiel Summer,Dead,Robot,Female,2021-10-16 15:36:59.730000+00:00,Earth (Replacement Dimension)
+696,Glockenspiel Morty,Dead,Robot,Male,2021-10-16 15:37:40.381000+00:00,Earth (Replacement Dimension)
+697,Wicker Beth,Dead,Robot,Female,2021-10-16 15:40:01.248000+00:00,Earth (Replacement Dimension)
+698,Wicker Rick,Dead,Robot,Male,2021-10-16 15:40:51.046000+00:00,Earth (Replacement Dimension)
+699,Wicker Morty,Dead,Robot,Male,2021-10-16 15:41:28.941000+00:00,Earth (Replacement Dimension)
+700,Wicker Summer,Dead,Robot,Female,2021-10-16 15:42:51.860000+00:00,Earth (Replacement Dimension)
+701,Metal Rick,Dead,Robot,Male,2021-10-16 15:43:50.568000+00:00,Earth (Replacement Dimension)
+702,Gun Brain Rick,Dead,Robot,Male,2021-10-16 15:46:56.288000+00:00,Earth (Replacement Dimension)
+703,Mr. Always Wants to be Hunted,Alive,Poopybutthole,Male,2021-10-16 15:51:02.924000+00:00,unknown
+704,Squid Costume Beth,Dead,Robot,Female,2021-10-16 15:55:49.506000+00:00,Earth (Replacement Dimension)
+705,Squid Costume Jerry,Dead,Robot,Male,2021-10-16 16:00:00.400000+00:00,Earth (Replacement Dimension)
+706,Squid Costume Morty,Dead,Robot,Male,2021-10-16 16:01:02.238000+00:00,Earth (Replacement Dimension)
+707,Squid Costume Rick,Dead,Robot,Male,2021-10-16 16:01:52.437000+00:00,Earth (Replacement Dimension)
+708,Squid Costume Summer,Dead,Robot,Female,2021-10-16 16:03:02.153000+00:00,Earth (Replacement Dimension)
+709,Dracula,Alive,Mythological Creature,Male,2021-10-16 16:04:24.097000+00:00,Interdimensional Cable
+710,Steve,Alive,Human,Male,2021-10-16 16:06:00.878000+00:00,Earth (Replacement Dimension)
+711,When Wolf,Alive,Mythological Creature,Male,2021-10-16 16:11:18.457000+00:00,Interdimensional Cable
+712,Too Cute to Murder Beth,Dead,Robot,Female,2021-10-17 09:40:13.581000+00:00,Earth (Replacement Dimension)
+713,Too Cute to Murder Rick,Dead,Robot,Male,2021-10-17 09:40:51.620000+00:00,Earth (Replacement Dimension)
+714,Too Cute to Murder Jerry,Dead,Robot,Male,2021-10-17 09:41:30.782000+00:00,Earth (Replacement Dimension)
+715,Too Cute to Murder Morty,Dead,Robot,Male,2021-10-17 09:42:15.208000+00:00,Earth (Replacement Dimension)
+716,Too Cute to Murder Summer,Dead,Robot,Female,2021-10-17 09:42:51.073000+00:00,Earth (Replacement Dimension)
+717,Planetina,Alive,Humanoid,Female,2021-10-17 09:50:18.307000+00:00,Elemental Rings
+718,Daphne,Alive,Alien,Female,2021-10-17 09:53:07.883000+00:00,Morglutz
+719,Diesel Weasel,Alive,Animal,Male,2021-10-17 09:55:17.683000+00:00,Earth (Replacement Dimension)
+720,Eddie,Dead,Human,Male,2021-10-17 09:57:07.971000+00:00,Earth (Replacement Dimension)
+721,Xing Ho,Dead,Human,Female,2021-10-17 09:57:46.574000+00:00,Earth (Replacement Dimension)
+722,Air Tina-Teer,Dead,Human,Female,2021-10-17 09:58:49.388000+00:00,Earth (Replacement Dimension)
+723,Water Tina-Teer,Dead,Human,Male,2021-10-17 09:59:26.786000+00:00,Earth (Replacement Dimension)
+724,Planetina Buyer,Dead,Human,Male,2021-10-17 10:00:06.914000+00:00,Earth (Replacement Dimension)
+725,Tony Galopagus,Alive,Human,Male,2021-10-17 10:01:10.143000+00:00,Earth (Replacement Dimension)
+726,Sticky,Alive,unknown,Male,2021-10-17 10:09:46.047000+00:00,Morty
+727,Professor Shabooboo,Dead,Human,Male,2021-10-17 10:10:44.560000+00:00,Earth (Replacement Dimension)
+728,Sperm Queen,Dead,unknown,Female,2021-10-17 10:12:05.246000+00:00,Morty
+729,CHUD King,Alive,Animal,Male,2021-10-17 10:32:39.601000+00:00,Earth (Replacement Dimension)
+730,Princess Ponietta,Alive,Animal,Female,2021-10-17 10:35:15.825000+00:00,Earth (Replacement Dimension)
+731,Naruto Smith,Alive,Humanoid,Male,2021-10-17 11:56:17.275000+00:00,Earth (Replacement Dimension)
+732,Blazen,Dead,Human,Male,2021-10-17 11:59:00.689000+00:00,Earth (Replacement Dimension)
+733,Kathy Ireland,Alive,Human,Female,2021-10-17 12:00:07.076000+00:00,Earth (Replacement Dimension)
+734,Amazing Johnathan,Alive,Human,Male,2021-10-17 12:00:50.753000+00:00,Earth (Replacement Dimension)
+735,Foal Sanchez,Alive,Humanoid,unknown,2021-10-17 12:08:38.935000+00:00,Earth (Replacement Dimension)
+736,Spaceman,Dead,Human,Male,2021-10-17 12:11:21.171000+00:00,Earth (Replacement Dimension)
+737,Cirque du Soleil Zumanity Member,Alive,Human,Female,2021-10-17 12:24:53.547000+00:00,Near-Duplicate Reality
+738,Cirque du Soleil Zumanity Member,Alive,Human,Male,2021-10-17 12:25:18.152000+00:00,Earth (Replacement Dimension)
+739,Cirque du Soleil Zumanity Member,Alive,Human,Female,2021-10-17 12:25:53.904000+00:00,Earth (Replacement Dimension)
+740,Cirque du Soleil Zumanity Member,Dead,Human,Female,2021-10-17 12:26:27.530000+00:00,Earth (Replacement Dimension)
+741,Cirque du Soleil Zumanity Member,Alive,Human,Female,2021-10-17 12:27:42.669000+00:00,Earth (Replacement Dimension)
+742,Bruce Chutback,Alive,Human,Male,2021-10-17 13:35:30.793000+00:00,Earth (Replacement Dimension)
+743,Alyson Hannigan,Dead,Alien,Female,2021-10-17 13:46:17.880000+00:00,unknown
+744,Cenobite,unknown,Mythological Creature,Male,2021-10-17 13:53:11.250000+00:00,Hell
+745,Cenobite,unknown,Mythological Creature,Female,2021-10-17 13:53:59.978000+00:00,Hell
+746,Cenobite,unknown,Mythological Creature,Male,2021-10-17 13:55:11.551000+00:00,Hell
+747,Cenobite,unknown,Mythological Creature,Male,2021-10-17 13:56:15.096000+00:00,Hell
+748,Cenobite,unknown,Mythological Creature,Male,2021-10-17 13:57:04.213000+00:00,Hell
+749,Coat Rack Head,unknown,Mythological Creature,Male,2021-10-17 13:57:49.619000+00:00,Hell
+750,Mousetrap Nipples,unknown,Mythological Creature,Male,2021-10-17 13:58:37.737000+00:00,Hell
+751,Changeformer,Dead,Robot,Male,2021-10-17 14:03:31.342000+00:00,Space Tahoe
+752,Changeformer,Dead,Robot,Male,2021-10-17 14:04:04.675000+00:00,Space Tahoe
+753,Space Cruiser,Alive,Robot,Female,2021-10-17 14:09:39.783000+00:00,Earth (Replacement Dimension)
+754,Coop,Alive,Human,Male,2021-10-17 14:13:09.623000+00:00,Earth (Replacement Dimension)
+755,Dwayne,Alive,Human,Male,2021-10-17 14:14:04.450000+00:00,Earth (Replacement Dimension)
+756,Franklin D. Roosevelt,Dead,Humanoid,Male,2021-10-17 14:19:57.500000+00:00,Earth (Replacement Dimension)
+757,President's General,Alive,Human,Male,2021-10-17 14:26:07.815000+00:00,Earth (Replacement Dimension)
+758,Giant Assassin Hidden in the Statue of Liberty,Alive,Robot,Female,2021-10-17 14:59:32.923000+00:00,France
+759,Turkey Morty,Alive,Animal,Male,2021-10-17 15:01:58.524000+00:00,Earth (Replacement Dimension)
+760,Turkey Rick,Alive,Animal,Male,2021-10-17 15:02:38.081000+00:00,Earth (Replacement Dimension)
+761,Turkey President Curtis,Alive,Animal,Male,2021-10-17 15:03:29.593000+00:00,Earth (Replacement Dimension)
+762,Martínez,Dead,Animal,Male,2021-10-17 15:06:48.939000+00:00,Earth (Replacement Dimension)
+763,Marvin,Alive,Human,Male,2021-10-17 15:07:24.718000+00:00,Earth (Replacement Dimension)
+764,Jackey,Alive,Human,Male,2021-10-17 15:08:16.906000+00:00,Earth (Replacement Dimension)
+765,Native Alien,Alive,Alien,Male,2021-10-17 15:09:22.123000+00:00,unknown
+766,Pilgrim Alien,Alive,Alien,Male,2021-10-17 15:10:21.016000+00:00,unknown
+767,President Turkey,Dead,Humanoid,Male,2021-10-17 15:11:48.815000+00:00,Earth (Replacement Dimension)
+768,Mary-Lou,Alive,Human,Female,2021-10-17 15:26:42.828000+00:00,Earth (Replacement Dimension)
+769,Big Fat rick,unknown,Human,Male,2021-10-25 08:54:36.735000+00:00,unknown
+770,Hothead Rick,Dead,Human,Male,2021-10-25 08:55:48.771000+00:00,unknown
+771,Ricardo Montoya,unknown,Human,Male,2021-10-25 08:56:41.727000+00:00,unknown
+772,Wrap-it-up Little Rick,Dead,Human,Male,2021-10-25 08:57:20.725000+00:00,unknown
+773,Yo-yo Rick,unknown,Human,Male,2021-10-25 08:58:05.108000+00:00,unknown
+774,Voiceoverian,Dead,Alien,unknown,2021-10-25 08:59:23.442000+00:00,unknown
+775,Voiceoverian,Dead,Alien,unknown,2021-10-25 08:59:52.011000+00:00,unknown
+776,Gotron Pilot,Dead,Human,Male,2021-10-25 09:00:59.768000+00:00,unknown
+777,Gotron Pilot,Dead,Human,Male,2021-10-25 09:02:55.146000+00:00,unknown
+778,Gotron Pilot,Dead,Human,Male,2021-10-25 09:04:17.165000+00:00,unknown
+779,Young Memory Rick,Alive,Human,Male,2021-10-25 09:12:36.210000+00:00,Birdperson's Consciousness
+780,Memory Tammy,Dead,Human,Female,2021-10-25 09:14:05.923000+00:00,Birdperson's Consciousness
+781,Rick's Garage,Alive,Robot,Female,2021-10-25 09:18:48.188000+00:00,Earth (Replacement Dimension)
+782,Memory Squanchy,Dead,Alien,Male,2021-10-25 09:20:57.545000+00:00,Birdperson's Consciousness
+783,Memory Rick,Dead,Human,Male,2021-10-25 09:22:40.448000+00:00,Birdperson's Consciousness
+784,Memory Rick,Dead,Human,Male,2021-10-25 09:23:22.034000+00:00,Birdperson's Consciousness
+785,Memory Geardude,Dead,Alien,Male,2021-10-25 09:24:51.284000+00:00,Birdperson's Consciousness
+786,Birdperson & Tammy's Child,Alive,Humanoid,Female,2021-10-25 09:27:05.325000+00:00,Earth (Replacement Dimension)
+787,Two Crows,Alive,Animal,unknown,2021-10-25 09:31:47.377000+00:00,Earth (Replacement Dimension)
+788,Mr. Cookie President,Alive,Alien,Male,2021-10-25 10:18:19.997000+00:00,unknown
+789,Nick,Dead,Human,Male,2021-10-25 10:19:06.159000+00:00,Earth (Replacement Dimension)
+790,Harold (Garbage Goober),Alive,Alien,Male,2021-10-25 10:20:33.373000+00:00,unknown
+791,Harold's Wife,Alive,Alien,Female,2021-10-25 10:21:17.779000+00:00,unknown
+792,Alien Crow,Dead,Alien,Male,2021-10-26 14:48:36.728000+00:00,Avian Planet
+793,Alien Crow,Dead,Alien,Female,2021-11-02 13:00:18.318000+00:00,Avian Planet
+794,Samansky,Dead,Alien,Male,2021-11-02 13:04:18.866000+00:00,Normal Size Bug Dimension
+795,Palicki,Alive,Alien,Male,2021-11-02 13:05:12.642000+00:00,Normal Size Bug Dimension
+796,Sarge,Alive,Alien,Male,2021-11-02 13:05:42.996000+00:00,Normal Size Bug Dimension
+797,Slartivartian,Dead,Alien,Male,2021-11-02 13:07:40.795000+00:00,Slartivart
+798,Ferkusian,Alive,Alien,Male,2021-11-02 13:09:10.765000+00:00,Ferkus 9
+799,Morglutzian,Dead,Alien,Male,2021-11-02 13:09:51.886000+00:00,Morglutz
+800,Super Turkey,Dead,Humanoid,Male,2021-11-02 13:11:52.372000+00:00,Earth (Replacement Dimension)
+801,7+7 Years Old Morty,unknown,Human,Male,2021-11-02 13:12:26.860000+00:00,Citadel of Ricks
+802,26 Years Old Morty,Dead,Human,Male,2021-11-02 13:12:42.408000+00:00,Citadel of Ricks
+803,40 Years Old Morty,unknown,Human,Male,2021-11-02 13:13:51.515000+00:00,Citadel of Ricks
+804,Andy,unknown,Human,Male,2021-11-02 13:19:19.807000+00:00,unknown
+805,Baby Mouse Skin Morty,Alive,Human,Male,2021-11-02 13:31:17.973000+00:00,Citadel of Ricks
+806,Metaphor for Capitalism,Dead,Humanoid,Male,2021-11-02 13:33:10.457000+00:00,Citadel of Ricks
+807,Beth Sanchez,Dead,Human,Female,2021-11-02 13:39:31.038000+00:00,Earth (C-137)
+808,Crow Scare,Alive,Humanoid,Male,2021-11-02 13:41:47.963000+00:00,Rick and Two Crows Planet
+809,Pussifer,Dead,Animal,Male,2021-11-02 13:51:30.942000+00:00,Rick and Two Crows Planet
+810,Stan Lee Rick,unknown,Human,Male,2021-11-02 13:55:06.815000+00:00,unknown
+811,Re-Build-a-Morty Morty,unknown,Human,Male,2021-11-02 14:06:40.357000+00:00,unknown
+812,Deformed Morty,Dead,Humanoid,Male,2021-11-02 14:07:57.818000+00:00,Citadel of Ricks
+813,Crow Horse,Alive,Robot,unknown,2021-11-02 14:11:56.442000+00:00,Rick and Two Crows Planet
+814,Bald Rick,Dead,Human,Male,2021-11-02 15:16:51.977000+00:00,unknown
+815,Punk Rick,Dead,Human,Male,2021-11-02 15:19:11.398000+00:00,unknown
+816,Party Rick,Dead,Human,Male,2021-11-02 15:21:28.996000+00:00,unknown
+817,Scar Rick,Dead,Human,Male,2021-11-02 15:23:05.371000+00:00,unknown
+818,Long Hair Rick,unknown,Human,Male,2021-11-02 15:24:36.172000+00:00,unknown
+819,Redhead Rick,Dead,Human,Male,2021-11-02 15:26:36.495000+00:00,unknown
+820,Redhead Morty,Dead,Human,Male,2021-11-02 15:27:02.303000+00:00,unknown
+821,Gotron,unknown,Robot,Genderless,2021-11-02 17:15:24.788000+00:00,Earth (Replacement Dimension)
+822,Young Jerry,unknown,Human,Male,2021-11-02 17:18:31.934000+00:00,Earth (Unknown dimension)
+823,Young Beth,unknown,Human,Female,2021-11-02 17:19:00.951000+00:00,Earth (Unknown dimension)
+824,Young Beth,unknown,Human,Female,2021-11-02 17:19:47.957000+00:00,Earth (Unknown dimension)
+825,Young Jerry,unknown,Human,Male,2021-11-02 17:20:14.305000+00:00,Earth (Unknown dimension)
+826,Butter Robot,Alive,Robot,Genderless,2021-11-02 17:24:37.458000+00:00,Earth (Replacement Dimension)
