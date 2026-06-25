@@ -27,4 +27,9 @@ def extract_characters():
         json.dump(todos_los_personajes, f, indent=4, ensure_ascii=False)    
 
 
-print(f"Personajes descargados: {len(todos_los_personajes)}")  
+    print(f"Personajes descargados: {len(todos_los_personajes)}")
+
+    return todos_los_personajes
+
+if __name__ == "__main__":
+    extract_characters()
