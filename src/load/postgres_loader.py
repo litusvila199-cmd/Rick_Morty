@@ -1,9 +1,12 @@
 import os
-
+import logging
 import pandas as pd
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
 
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 def load_characters():
     try:
@@ -30,9 +33,10 @@ def load_characters():
             index=False,
             )
         
-        print("Characters loaded successfully into PostgreSQL.")
+        logger.info("Characters loaded successfully into PostgreSQL.")
+
     except Exception as e:
-        print(f"Error during loading: {e}")
+        logger.error(f"Error during loading: {e}")
         raise    
 
 if __name__ == "__main__":

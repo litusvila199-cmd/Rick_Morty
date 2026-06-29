@@ -1,4 +1,10 @@
 import pandas as pd
+import logging
+
+
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 
 def transform_characters():
@@ -17,10 +23,10 @@ def transform_characters():
 
         df.to_csv("data/processed/characters_processed.csv", index=False)
 
-        print("Processed file saved to data/processed/characters_processed.csv")
+        logger.info("Processed file saved to data/processed/characters_processed.csv")
 
     except Exception as e:
-        print(f"Error during transformation: {e}")
+        logger.error(f"Error during transformation: {e}")
         raise
 
 
