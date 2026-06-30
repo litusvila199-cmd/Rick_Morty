@@ -1,35 +1,47 @@
+import json
+import logging
+import os
+
 import requests
 from dotenv import load_dotenv
-import json
-import os
+
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 def extract_characters():
 
-    load_dotenv()
+    try:
 
-    API_URL = os.getenv("API_URL")
+        load_dotenv()
 
-    current_url = API_URL
+        api_url = os.getenv("API_URL")
 
-    todos_los_personajes = []
+        current_url = api_url
 
-    while current_url():
+        todos_los_personajes = []
 
-        response = requests.get(current_url)
+        while current_url:
 
-        datos = response.json()
+            response = requests.get(current_url, timeout=10)
+            response.raise_for_status()
 
-        todos_los_personajes.extend(datos["results"])
+            datos = response.json()
 
-        current_url = datos["info"]["next"]
+            todos_los_personajes.extend(datos["results"])
 
-    with open("data/raw/characters_raw.json", "w", encoding="utf-8")as f:
-        json.dump(todos_los_personajes, f, indent=4, ensure_ascii=False)    
+            current_url = datos["info"]["next"]
 
+        with open("data/raw/characters_raw.json", "w", encoding="utf-8") as f:
+            json.dump(todos_los_personajes, f, indent=4, ensure_ascii=False)
 
-    print(f"Personajes descargados: {len(todos_los_personajes)}")
+        logger.info(f"Personajes descargados: {len(todos_los_personajes)}")
 
-    return todos_los_personajes
+        return todos_los_personajes
+
+    except Exception as e:
+        logger.error(f"Error during extraction: {e}")
+        raise
 
 if __name__ == "__main__":
     extract_characters()
